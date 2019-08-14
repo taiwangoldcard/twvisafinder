@@ -1,0 +1,5 @@
+Do we want to care about diplomatic passports or emergency passports?
+
+Do we care about passport validity conditions?
+
+Are we trying to be authoritative?

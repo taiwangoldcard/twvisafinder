@@ -245,7 +245,7 @@
         "country": "",
         "all_countries": true,
         "conditional": true,
-        "condition": "Foreign nationals who have been invited to attend international conferences, sporting events, trade fairs or other activities in Taiwan\u2014organized, co-organized, or sponsored by central government agen",
+        "condition": "Foreign nationals who have been invited to attend international conferences, sporting events, trade fairs or other activities in Taiwan\u2014organized, co-organized, or sponsored by central government agencies\u2014are also eligible for an eVisa. Such foreign nationals must obtain an Ecode from the host organization in Taiwan (n.b., not the Bureau of Consular Affairs) prior to submitting an online application for an eVisa. Nationals of the Democratic People's Republic of Korea are only eligible for an eVisa when participating in sporting events in Taiwan.",
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -448,6 +448,916 @@
     }
 },
 {
+    "model": "visafinder.visaeligibility",
+    "pk": 33,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "AD",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 34,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "AU",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": "2019-12-31",
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 35,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "AT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 36,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "BE",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 37,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "BG",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 38,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "CA",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 39,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "CL",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 40,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "HR",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 41,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "CY",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 42,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "CZ",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 43,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "DK",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 44,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "EE",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 45,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "SZ",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 46,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "FI",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 47,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "FR",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 48,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "DE",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 49,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "GR",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 50,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "GT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 51,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "HT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 52,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "HN",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 53,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "HU",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 54,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "IS",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 55,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "IL",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 56,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "IT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 57,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "JP",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 58,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "KR",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 59,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "LV",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 60,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "LI",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 61,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "LT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 62,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "LU",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 63,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "MT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 64,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "MH",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 65,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "MC",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 66,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "NL",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 67,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "NZ",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 68,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "NI",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 69,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "MK",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": "2020-03-31",
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 70,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "NO",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 71,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "PW",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 72,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "PT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 73,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "RO",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 74,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "SM",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 75,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "SK",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 76,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "SI",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 77,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "ES",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 78,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "SE",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 79,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "CH",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 80,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "TV",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 81,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "GB",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 82,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "US",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 83,
+    "fields": {
+        "eligiblevisa": 2,
+        "country": "VA",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 84,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "BZ",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 85,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "DO",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 86,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "MY",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 87,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "NR",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 88,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "KN",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 89,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "LC",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 90,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "VC",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 91,
+    "fields": {
+        "eligiblevisa": 3,
+        "country": "SG",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 92,
+    "fields": {
+        "eligiblevisa": 4,
+        "country": "RU",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": "2019-08-01",
+        "end_date": "2020-07-31",
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 93,
+    "fields": {
+        "eligiblevisa": 5,
+        "country": "TH",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": "2020-07-31",
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 94,
+    "fields": {
+        "eligiblevisa": 5,
+        "country": "BN",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": "2020-07-31",
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 95,
+    "fields": {
+        "eligiblevisa": 5,
+        "country": "PH",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "start_date": null,
+        "end_date": "2020-07-31",
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 96,
+    "fields": {
+        "eligiblevisa": 6,
+        "country": "TR",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "Holders of Turkish passport with validity of more than six months.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 97,
+    "fields": {
+        "eligiblevisa": 7,
+        "country": "",
+        "all_countries": true,
+        "conditional": true,
+        "condition": "For the Employment Gold Card application process, please visit the MOI\u2019s Foreign Professionals Online Application Platform.\r\n\r\nhttps://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
     "model": "visafinder.visa",
     "pk": 1,
     "fields": {
@@ -495,6 +1405,108 @@
             31,
             32
         ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 2,
+    "fields": {
+        "name": "Visa-Exempt Entry (90 days)",
+        "description": "Visa-Exempt Entry (90 days)",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14",
+        "extendable": false,
+        "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n*        Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n*        Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n*        A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n*        USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n*        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\nRemarks:\r\n\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "eligibilities": []
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 3,
+    "fields": {
+        "name": "Visa-Exempt Entry (30 days)",
+        "description": "Visa-Exempt Entry (30 days)",
+        "duration": 30,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14",
+        "extendable": false,
+        "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n   *     Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n    *   Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n    *    A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n     *   USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\n\r\nRemarks:\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "eligibilities": []
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 4,
+    "fields": {
+        "name": "Visa-Exempt Entry (21 days)",
+        "description": "Visa-Exempt Entry (21 days)",
+        "duration": 21,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+        "start_date": "2019-08-01",
+        "end_date": "2020-07-31",
+        "update_date": "2019-08-14",
+        "extendable": false,
+        "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n*        Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n*        Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n*        A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n*        USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n*        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\nRemarks:\r\n\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "eligibilities": []
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 5,
+    "fields": {
+        "name": "Visa-Exempt Entry (14 days)",
+        "description": "Visa-Exempt Entry (14 days)",
+        "duration": 14,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14",
+        "extendable": false,
+        "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n*        Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n*        Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n*        A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n*        USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n*        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\nRemarks:\r\n\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "eligibilities": []
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 6,
+    "fields": {
+        "name": "Landing Visa",
+        "description": "Landing Visa",
+        "duration": 30,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-149-271-2fdc9-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14",
+        "extendable": false,
+        "requirements": "1    a confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure.\r\n2    fill out an application form with two photos.\r\n3    visa fee of NT$ 1,600 (citizens of the countries with reciprocal agreements shall be issued visas gratis) plus a handling fee of NT$ 800. No fee will be charged for Turkish citizens.\r\n4    no criminal record or not prohibited by the local authorities.\r\n\r\n\r\n1    Passengers entering the Republic of China through the Taiwan Taoyuan International Airport may apply for a landing visa at the Visa Office of Consular Affairs Bureau at the Taiwan Taoyuan International Airport.\r\n2    Passengers who enter the Republic of China through the Taipei SongShan Airport, the TaichungAirport and the Kaohsiung International Airport shall apply for \"temporary entry permit\" at Border Affairs Corps of National Immigration Agency.The holder of this permit should apply for a visa as soon as possible at the Bureau of Consular Affairs or at any of the branch offices of the Ministry of Foreign Affairs in Taichung, Chiayi, Kaohsiung or Hualian. The holder will need to submit his/her passport, temporary entry permit when applying for the visa.\r\n3    In the event of a long national holiday, the holder may apply for a visa at the Taiwan Taoyuan International Airport (TIA) Visa Office, Bureau of Consular Affairs. The holder is not allowed to depart from the airports until he/she has applied for a visa.\r\n\r\n4 Nationals who have entered Taiwan on Landing Visas for purposes that do not require a permit \u2013 such as tourism, visiting friends or relatives, social visits, conducting business, attending exhibitions, fact-finding missions, and international exchanges \u2013 who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Nationals who intend to enter Taiwan for the purposes that require qualifications \u2013 such as religious work \u2013 must obtain a visa from the R.O.C. overseas missions before entering Taiwan.",
+        "eligibilities": []
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 7,
+    "fields": {
+        "name": "Employment Gold Card",
+        "description": "Employment Gold Card",
+        "duration": 1095,
+        "entries": "X",
+        "link": "https://foreigntalentact.ndc.gov.tw/en/Content_List.aspx?n=24C15F2CEE245632",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14",
+        "extendable": false,
+        "requirements": "For the Employment Gold Card application process, please visit the MOI\u2019s Foreign Professionals Online Application Platform.\r\n\r\nhttps://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/",
+        "eligibilities": []
     }
 }
 ]

@@ -1,0 +1,500 @@
+[
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 1,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "BF",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 2,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "BH",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 3,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "CO",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 4,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "DM",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 5,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "EC",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 6,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "KI",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 7,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "KW",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 8,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "MU",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 9,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "ME",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 10,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "OM",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 11,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "PA",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 12,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "PE",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 13,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "QA",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 14,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "SA",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 15,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "SB",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 16,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "TR",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 17,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "AE",
+        "all_countries": false,
+        "conditional": false,
+        "condition": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 18,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "",
+        "all_countries": true,
+        "conditional": true,
+        "condition": "Foreign nationals who have been invited to attend international conferences, sporting events, trade fairs or other activities in Taiwan\u2014organized, co-organized, or sponsored by central government agen",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 19,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "KP",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Nationals of the Democratic People's Republic of Korea are only eligible for an eVisa when participating in sporting events in Taiwan.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 20,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "KH",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 21,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "IN",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 22,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "ID",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 23,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "LA",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 24,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "MM",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 25,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "MM",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 26,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "VN",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 27,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "BD",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 28,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "BT",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 29,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "IN",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 30,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "NP",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 31,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "PK",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 32,
+    "fields": {
+        "eligiblevisa": 1,
+        "country": "LK",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 1,
+    "fields": {
+        "name": "eVisa",
+        "description": "eVisa (Online Application)",
+        "duration": 30,
+        "entries": "1",
+        "link": "https://visawebapp.boca.gov.tw/BOCA_MRVWeb/subroot/MRV00FORM.action",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-08-14",
+        "extendable": false,
+        "requirements": "eVisa applicants must possess an ordinary, official, or diplomatic passport with validity of at least six months as of the date of intended entry into Taiwan.\r\n\r\nTo obtain an eVisa, applicants must submit relevant personal information and pay the required fee by credit card (Visa or MasterCard) online. ROC overseas missions may, depending on the applicant\u2019s nationality and purpose of visit, request through email that the applicant submit additional documents within a specific timeframe. If these documents are not submitted by the given deadline, the application may be denied.\r\n\r\nWhen an eVisa application has been approved, the applicant will receive a notice by email containing a webpage link to download and print the eVisa. The eVisa holder is required to present a paper copy of the eVisa at the immigration checkpoint for verification by the National Immigration Agency upon arrival in Taiwan. However, immigration officers at ports of entry in Taiwan have the right to deny entry to eVisa holders without providing further explanation.\r\n\r\nPlease note that eVisas are only granted for tourism and business purposes, as well as for visiting relatives and attending international conferences or sporting events in Taiwan. If you intend to travel to Taiwan for other purposes \u2013 such as employment, study, residence with family, or Mandarin language courses \u2013 you must submit an application for a suitable type of visa at an ROC overseas mission.",
+        "eligibilities": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ]
+    }
+}
+]

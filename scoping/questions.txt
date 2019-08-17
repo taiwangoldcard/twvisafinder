@@ -3,3 +3,5 @@ Do we want to care about diplomatic passports or emergency passports?
 Do we care about passport validity conditions?
 
 Are we trying to be authoritative?
+
+How to model "pathways" to permanent residence? eg ARC->ARC->APRC, ARC->Gold Card->APRC, Plum Blossom Card, Tourist Visa->ARC->ARC->APRC

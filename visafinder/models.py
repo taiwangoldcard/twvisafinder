@@ -35,7 +35,7 @@ class Visa(models.Model):
 
     name = models.CharField(max_length=100)
     description = models.CharField(max_length=200)
-    category = VisaCategory()
+    category = models.ManyToManyField(VisaCategory())
     duration = models.PositiveSmallIntegerField()
     entries = models.CharField(max_length=1, choices=ENTRY_CHOICES, default='1')
     link = models.URLField()

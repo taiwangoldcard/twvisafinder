@@ -1,5 +1,53 @@
 [
 {
+    "model": "visafinder.visacategory",
+    "pk": 1,
+    "fields": {
+        "name": "Visit and Tourism",
+        "description": "Holidays, working holidays and unpaid business visitor activities like attending a conference"
+    }
+},
+{
+    "model": "visafinder.visacategory",
+    "pk": 2,
+    "fields": {
+        "name": "Study",
+        "description": "Study Chinese, or attend a university"
+    }
+},
+{
+    "model": "visafinder.visacategory",
+    "pk": 3,
+    "fields": {
+        "name": "Work",
+        "description": "Short and long-term work, skilled or sponsored, or working holidays."
+    }
+},
+{
+    "model": "visafinder.visacategory",
+    "pk": 4,
+    "fields": {
+        "name": "Live here permanently",
+        "description": "Visa pathways to become a permanent resident"
+    }
+},
+{
+    "model": "visafinder.visacategory",
+    "pk": 5,
+    "fields": {
+        "name": "Join partner or family",
+        "description": "Join partner or family who are Taiwanese, or holders of a Taiwan residence visa"
+    }
+},
+{
+    "model": "visafinder.visacategory",
+    "pk": 6,
+    "fields": {
+        "name": "Other",
+        "description": "Other visas, specialist visas"
+    }
+},
+{
     "model": "visafinder.visaeligibility",
     "pk": 1,
     "fields": {
@@ -1371,6 +1419,10 @@
         "update_date": "2019-08-14",
         "extendable": false,
         "requirements": "eVisa applicants must possess an ordinary, official, or diplomatic passport with validity of at least six months as of the date of intended entry into Taiwan.\r\n\r\nTo obtain an eVisa, applicants must submit relevant personal information and pay the required fee by credit card (Visa or MasterCard) online. ROC overseas missions may, depending on the applicant\u2019s nationality and purpose of visit, request through email that the applicant submit additional documents within a specific timeframe. If these documents are not submitted by the given deadline, the application may be denied.\r\n\r\nWhen an eVisa application has been approved, the applicant will receive a notice by email containing a webpage link to download and print the eVisa. The eVisa holder is required to present a paper copy of the eVisa at the immigration checkpoint for verification by the National Immigration Agency upon arrival in Taiwan. However, immigration officers at ports of entry in Taiwan have the right to deny entry to eVisa holders without providing further explanation.\r\n\r\nPlease note that eVisas are only granted for tourism and business purposes, as well as for visiting relatives and attending international conferences or sporting events in Taiwan. If you intend to travel to Taiwan for other purposes \u2013 such as employment, study, residence with family, or Mandarin language courses \u2013 you must submit an application for a suitable type of visa at an ROC overseas mission.",
+        "category": [
+            1,
+            5
+        ],
         "eligibilities": [
             1,
             2,
@@ -1421,6 +1473,10 @@
         "update_date": "2019-08-14",
         "extendable": false,
         "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n*        Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n*        Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n*        A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n*        USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n*        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\nRemarks:\r\n\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "category": [
+            1,
+            5
+        ],
         "eligibilities": []
     }
 },
@@ -1438,6 +1494,10 @@
         "update_date": "2019-08-14",
         "extendable": false,
         "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n   *     Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n    *   Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n    *    A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n     *   USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\n\r\nRemarks:\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "category": [
+            1,
+            5
+        ],
         "eligibilities": []
     }
 },
@@ -1455,6 +1515,10 @@
         "update_date": "2019-08-14",
         "extendable": false,
         "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n*        Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n*        Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n*        A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n*        USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n*        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\nRemarks:\r\n\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "category": [
+            1,
+            5
+        ],
         "eligibilities": []
     }
 },
@@ -1472,6 +1536,10 @@
         "update_date": "2019-08-14",
         "extendable": false,
         "requirements": "1.    A passport with remaining validity of at least six months as of the date of entry\r\n*        Visa-exempt entry only applies to foreign visitors holding formal passports (i.e., ordinary, official/service and diplomatic passports). Those holding emergency, temporary, or other informal passports or travel documents are ineligible, with the exception of those holding a Brunei Certificate of Identity.\r\n*        Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.\r\n*        A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.\r\n*        USA and Japan nationals who possess a,including emergency passports,valid for the intended period of stay are eligible for visa-exempt entry.\r\n*        Holder of emergency or temporary passport (except those from the United States of America) should apply for a visa at an ROC overseas mission, or a landing visa after arriving in the ROC.\r\n2.    A confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure flight.\r\n3.    Not determined by immigration officers at ports of entry in the ROC to be otherwise ineligible.\r\n4.    Holders of Brunei, Philippines, Russia and Thailand passports must have: A proof of accommodation (hotel) booking, host / sponsor's contact information and sufficient travel funds.\r\n\r\nRemarks:\r\n\r\n1.    Those who have entered Taiwan visa-free for purposes that do not require a permit\u2014such as engaging in tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions, and engaging in fact-finding missions or international exchanges\u2014who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Those who intend to enter Taiwan for purposes that require qualifications, such as religious work, must obtain a visa from an ROC overseas mission before entering Taiwan.\r\n2.     According to Article 14 of the Regulations for Exit of Draftees, a draftee who has maintained his household registration in Taiwan must enter into and depart from Taiwan with his ROC passport; a person who is subject to conscription and enters into Taiwan with a foreign passport will be restricted from departing Taiwan.",
+        "category": [
+            1,
+            5
+        ],
         "eligibilities": []
     }
 },
@@ -1489,6 +1557,10 @@
         "update_date": "2019-08-14",
         "extendable": false,
         "requirements": "1    a confirmed return air/sea ticket or air/sea ticket and a visa for the next destination, and a confirmed seat reservation for departure.\r\n2    fill out an application form with two photos.\r\n3    visa fee of NT$ 1,600 (citizens of the countries with reciprocal agreements shall be issued visas gratis) plus a handling fee of NT$ 800. No fee will be charged for Turkish citizens.\r\n4    no criminal record or not prohibited by the local authorities.\r\n\r\n\r\n1    Passengers entering the Republic of China through the Taiwan Taoyuan International Airport may apply for a landing visa at the Visa Office of Consular Affairs Bureau at the Taiwan Taoyuan International Airport.\r\n2    Passengers who enter the Republic of China through the Taipei SongShan Airport, the TaichungAirport and the Kaohsiung International Airport shall apply for \"temporary entry permit\" at Border Affairs Corps of National Immigration Agency.The holder of this permit should apply for a visa as soon as possible at the Bureau of Consular Affairs or at any of the branch offices of the Ministry of Foreign Affairs in Taichung, Chiayi, Kaohsiung or Hualian. The holder will need to submit his/her passport, temporary entry permit when applying for the visa.\r\n3    In the event of a long national holiday, the holder may apply for a visa at the Taiwan Taoyuan International Airport (TIA) Visa Office, Bureau of Consular Affairs. The holder is not allowed to depart from the airports until he/she has applied for a visa.\r\n\r\n4 Nationals who have entered Taiwan on Landing Visas for purposes that do not require a permit \u2013 such as tourism, visiting friends or relatives, social visits, conducting business, attending exhibitions, fact-finding missions, and international exchanges \u2013 who then intend to engage in activities that, according to the laws and regulations of relevant agencies, do require a permit must still obtain such a permit. Nationals who intend to enter Taiwan for the purposes that require qualifications \u2013 such as religious work \u2013 must obtain a visa from the R.O.C. overseas missions before entering Taiwan.",
+        "category": [
+            1,
+            5
+        ],
         "eligibilities": []
     }
 },
@@ -1506,6 +1578,9 @@
         "update_date": "2019-08-14",
         "extendable": false,
         "requirements": "For the Employment Gold Card application process, please visit the MOI\u2019s Foreign Professionals Online Application Platform.\r\n\r\nhttps://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/",
+        "category": [
+            3
+        ],
         "eligibilities": []
     }
 }

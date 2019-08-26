@@ -18,13 +18,19 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-			<h2 class="section-heading">{{ category.name }}</h2>
+			<h2 class="section-heading">{{ category }}</h2>
                 </div>
             </div>
         </div>
     </section>
     <section class="visainfo">
 	<div class="container">
+        <span class="visatitle"><h3>Search for a visa <span class="icon-arrow-right"></span>
+        <form action="/{{ category }}/" method="post">
+           {% csrf_token %}
+	   {{ visasearchform }}
+	   <input type="submit" value="submit">
+	</form>
 	{% for visa in visas %}
 	<div class="row">
 		<a href="/visa/{{visa.name}}"><span class="visadescription">{{ visa.name }}</span></a>

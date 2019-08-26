@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block page_head %}
+    <!-- Custom CSS -->
+    <link href="{% static 'twvisafinder/css/custom.css' %}" rel="stylesheet">
+{% endblock %}
+{% block page_content %}
+   {% block main %}
+    <header id="main-header">
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>Taiwan Visa Finder</h1>
+                <hr>
+            </div>
+        </div>
+    </header>
+    <section class="bg" id="welcome">
+        <div class="container">
+            <div class="row">
+                <div class="text-center">
+			<h2 class="section-heading">{{ category.name }}</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="visainfo">
+	<div class="container">
+	{% for visa in visas %}
+	<div class="row">
+		<a href="/visa/{{visa.name}}"><span class="visadescription">{{ visa.name }}</span></a>
+	    </div>
+	{% endfor %}
+	    </div>
+	</div>
+    </section>
+    <section id="contact" class="bg-light">
+                <div class="text-center">
+                    <h2 class="section-heading">Contact us!</h2>
+                    <hr class="primary">
+                    <p>If you have any questions don't hesitate to reach out!</p>
+                </div>
+                <div class="text-center">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p><a href="mailto:{{ support_email }}">{{ support_email }}</a></p>
+                </div>
+    </section>
+
+   {% endblock %}
+{% endblock %}
+{% block page_js %}
+    <!-- Plugin JavaScript -->
+    <!-- Easing is for the vertical scroll animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <!-- Automatically fit text based on screen size.-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.2.0/jquery.fittext.js"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="{% static 'twvisafinder/js/custom.js' %}"></script>
+{% endblock %}

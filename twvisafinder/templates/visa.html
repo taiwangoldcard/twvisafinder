@@ -18,25 +18,25 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <h2 class="section-heading">Welcome!</h2>
-                    <p>
-		    Taiwan Visa Finder.
-                    </p>
+			<h2 class="section-heading">{{ visa.name }}</h2>
                 </div>
             </div>
         </div>
     </section>
-    <section class="visacategories">
+    <section class="visainfo">
 	<div class="container">
             <div class="row">
-	    {% for category in categories %}
-	    <div class="col-lg-4 visacategory">
-                <a href="/{{ category.name }}/">
-		<span class="visatitle"><h3>{{ category.name }}</h3><span class="icon-arrow-right"></span>
-         	<span class="visadescription">{{ category.description }}<span class="icon-arrow-right"></span>
-		</a>
+         	<span class="visadescription">{{ visa.description }}</span>
 	    </div>
-	    {% endfor %}
+            <div class="row">
+         	<span>Requirements: {{ visa.requirements }} days</span>
+	    </div>
+            <div class="row">
+         	<span>Duation: {{ visa.duration }} days</span>
+	    </div>
+            <div class="row">
+                <span><a href="{{ visa.link }}">Official Information</a></span>
+	    </div>
 	    </div>
 	</div>
     </section>

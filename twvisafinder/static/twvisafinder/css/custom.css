@@ -1,0 +1,22 @@
+.visacategories {
+box-sizing: border-box;
+color: rgb(51, 51, 51);
+font-family: Roboto, sans-serif;
+font-size: 13.6px;
+font-weight: 300;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+min-height: 194.333px;
+position: relative;
+}
+
+.visacategory {
+background-color: rgb(255, 255, 255);
+box-sizing: border-box;
+color: rgb(51, 51, 51);
+font-family: Roboto, sans-serif;
+font-size: 13.6px;
+font-weight: 300;
+}

@@ -2,6 +2,7 @@
 from __future__ import unicode_literals
 
 from django.db import models
+from django.utils import timezone
 from django_countries.fields import CountryField
 
 
@@ -18,9 +19,12 @@ class VisaEligibility(models.Model):
     all_countries = models.BooleanField(default=False)
     conditional = models.BooleanField(default=False)
     condition = models.TextField(null=True, blank=True)
+    min_age = models.PositiveSmallIntegerField(null=True, blank=True)
+    max_age = models.PositiveSmallIntegerField(null=True, blank=True)
+    link = models.URLField(null=True, blank=True)
     start_date = models.DateField(null=True, blank=True)
     end_date = models.DateField(null=True, blank=True)
-    update_date = models.DateField()
+    update_date = models.DateField(default=timezone.now)
 
     def __str__(self):
         return self.eligiblevisa.name + "-" + self.country.name
@@ -42,7 +46,7 @@ class Visa(models.Model):
     eligibilities = models.ManyToManyField(VisaEligibility, blank=True)
     start_date = models.DateField(null=True, blank=True)
     end_date = models.DateField(null=True, blank=True)
-    update_date = models.DateField()
+    update_date = models.DateField(default=timezone.now)
     extendable = models.BooleanField(default=False)
     requirements = models.TextField()
 

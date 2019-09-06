@@ -4,4 +4,11 @@ Do we care about passport validity conditions?
 
 Are we trying to be authoritative?
 
-How to model "pathways" to permanent residence? eg ARC->ARC->APRC, ARC->Gold Card->APRC, Plum Blossom Card, Tourist Visa->ARC->ARC->APRC
+How to model "pathways" to permanent residence?
+eg ARC->ARC->APRC, ARC->Gold Card->APRC, Plum Blossom Card, Tourist Visa->ARC->ARC->APRC
+eg Working Holiday-->Working Holiday Extension for 180 days-->Not extendable or convertible
+eg Blue Collar Worker Visa can't go to White Collar Worker Visa.
+
+It's not clear whether some visas are single or multiple entry eg Foreign Exchange Student visa
+
+The duration for some visas is not clear (eg Medical Treatment)

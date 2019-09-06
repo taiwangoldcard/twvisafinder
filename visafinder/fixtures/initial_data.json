@@ -56,6 +56,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -70,6 +73,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -84,6 +90,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -98,6 +107,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -112,6 +124,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -126,6 +141,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -140,6 +158,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -154,6 +175,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -168,6 +192,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -182,6 +209,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -196,6 +226,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -210,6 +243,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -224,6 +260,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -238,6 +277,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -252,6 +294,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -266,6 +311,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -280,6 +328,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": null,
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -294,6 +345,9 @@
         "all_countries": true,
         "conditional": true,
         "condition": "Foreign nationals who have been invited to attend international conferences, sporting events, trade fairs or other activities in Taiwan\u2014organized, co-organized, or sponsored by central government agencies\u2014are also eligible for an eVisa. Such foreign nationals must obtain an Ecode from the host organization in Taiwan (n.b., not the Bureau of Consular Affairs) prior to submitting an online application for an eVisa. Nationals of the Democratic People's Republic of Korea are only eligible for an eVisa when participating in sporting events in Taiwan.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -308,6 +362,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Nationals of the Democratic People's Republic of Korea are only eligible for an eVisa when participating in sporting events in Taiwan.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -322,6 +379,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -336,6 +396,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -350,6 +413,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -364,6 +430,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -378,6 +447,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -392,6 +464,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -406,6 +481,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Tourist groups from Cambodia, India, Indonesia, Laos, Myanmar, and Vietnam under \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries\u201d are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -420,6 +498,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -434,6 +515,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -448,6 +532,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -462,6 +549,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -476,6 +566,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -490,6 +583,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Nationals of Bangladesh, Bhutan, India, Iran, Nepal, Pakistan, and Sri Lanka for the purpose of conducting business at the recommendation of local offices of the Taiwan External Trade Development Council (TAITRA) are eligible for an eVisa.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -504,6 +600,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -518,6 +617,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": "2019-12-31",
         "update_date": "2019-08-14"
@@ -532,6 +634,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -546,6 +651,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -560,6 +668,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -574,6 +685,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -588,6 +702,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -602,6 +719,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -616,6 +736,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -630,6 +753,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -644,6 +770,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -658,6 +787,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -672,6 +804,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -686,6 +821,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -700,6 +838,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -714,6 +855,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -728,6 +872,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -742,6 +889,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -756,6 +906,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -770,6 +923,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -784,6 +940,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -798,6 +957,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -812,6 +974,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -826,6 +991,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -840,6 +1008,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -854,6 +1025,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -868,6 +1042,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -882,6 +1059,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -896,6 +1076,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -910,6 +1093,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -924,6 +1110,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -938,6 +1127,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "A national of the Republic of the Marshall Islands\u201d shall mean any person who holds the nationality of the Republic of the Marshall Islands and is confined to the following categories\uff1a(1) a person who acquires the citizenship of the Trust Territory of the Pacific Islands at birth before the effective date of the Constitution of the Republic of the Marshall Islands, and has become and remains a citizen of the Republic of the Marshall Islands; or (2) a person who acquires the citizenship of the Republic of the Marshall Islands at birth, on or after the effective date of the Constitution of the Republic of the Marshall Islands.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -952,6 +1144,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -966,6 +1161,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -980,6 +1178,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -994,6 +1195,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1008,6 +1212,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": "2020-03-31",
         "update_date": "2019-08-14"
@@ -1022,6 +1229,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1036,6 +1246,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1050,6 +1263,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1064,6 +1280,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1078,6 +1297,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1092,6 +1314,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1106,6 +1331,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1120,6 +1348,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1134,6 +1365,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1148,6 +1382,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1162,6 +1399,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1176,6 +1416,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1190,6 +1433,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1204,6 +1450,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1218,6 +1467,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1232,6 +1484,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1246,6 +1501,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1260,6 +1518,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1274,6 +1535,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1288,6 +1552,9 @@
         "all_countries": false,
         "conditional": true,
         "condition": "Holders of Belizean, Eswatini, Saint Christopher and Nevis, Saint Lucian and Tuvalu Passports with place of birth recorded on the passport data page as : Afghanistan, Iran, Iraq, Libya, Nigeria, Pakistan, the People's Republic of China, Syria and Yemen are ineligible for the visa exemption. Holders of Honduran passport with \"place of birth\" recorded on the passport data page as the People's Republic of China are also ineligible for the visa exemption.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1302,6 +1569,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1316,6 +1586,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1330,6 +1603,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": "2019-08-01",
         "end_date": "2020-07-31",
         "update_date": "2019-08-14"
@@ -1344,6 +1620,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": "2020-07-31",
         "update_date": "2019-08-14"
@@ -1358,6 +1637,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": "2020-07-31",
         "update_date": "2019-08-14"
@@ -1372,6 +1654,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": "2020-07-31",
         "update_date": "2019-08-14"
@@ -1386,6 +1671,9 @@
         "all_countries": false,
         "conditional": false,
         "condition": "Holders of Turkish passport with validity of more than six months.",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
@@ -1400,9 +1688,777 @@
         "all_countries": true,
         "conditional": true,
         "condition": "For the Employment Gold Card application process, please visit the MOI\u2019s Foreign Professionals Online Application Platform.\r\n\r\nhttps://coa.immigration.gov.tw/coa-frontend/four-in-one/entry/",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 98,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "LU",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "1. Qualification requirements\r\n\r\n    Applicants qualify if they:\r\n\r\na. hold Luxembourgish citizenship and reside in Luxembourg at the time of application;\r\nb. have not previously obtained an R.O.C. (Taiwan) visa for the Working Holiday Program;\r\nc. are between the ages of 18 and 30 at the time of application; and\r\nd. do not list dependents on their application (but dependents may apply separately for an R.O.C. (Taiwan) visa for the Working Holiday Program).\r\n\r\n2. Required documentation and funds\r\n\r\na. R.O.C. (Taiwan) visa application form for the Working Holiday Program (available on the Bureau of Consular Affairs website) completed and signed by the applicant\r\nb. Luxembourgish passport with at least 15 months of remaining validity as of the date of application\r\nc. Two color passport photos taken within six months prior to the date of application\r\nd. Proof of comprehensive insurance for the entire duration of stay in Taiwan, covering treatment for occupational injuries and related medical care, as well as any other medical and hospitalization expenses\r\ne. Proof of no criminal record\r\nf. Financial statement showing possession of at least \u20ac2,500\r\ng. Proof of possession of ticket to leave Taiwan or sufficient funds to purchase such ticket\r\nh. Health check report issued within three months prior to the date of application\r\ni. Visa fee of \u20ac86 (nonrefundable)\r\n\r\n3. Application procedures\r\n\r\na. Applications must be made in person and shall not be made through a third party.\r\nb. Applications must be submitted to the Taipei Representative Office in the European Union and Belgium.\r\nc. Applicants should submit additional documentation and undergo an interview if so requested by the Representative Office.\r\n\r\n4. Type of visa issued\r\n\r\na. Type: Visitor visa\r\nb. Validity: Six months from the date of issue; multiple entries allowed\r\nc. Duration of stay: 180 days. Within 15 days prior to expiry, the holder may apply for an extension of up to 180 days at the National Immigration Agency service center in the city or county of residence in Taiwan. The total duration of stay may not exceed one year. No further extensions or changes to visa type will be permitted thereafter.\r\n\r\n5. Other information\r\n\r\na. Working Holiday Program visas are issued to a maximum of 40 participants per year.\r\nb. During their stay in Taiwan, participants in the program may legally engage in temporary work. Changing employers is allowed.\r\nc. During their stay in Taiwan, participants may engage in academic studies or join training programs for no more than six months.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-4528-c80eb-2.html",
+        "start_date": "2019-01-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 99,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "AT",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Applications to the Republic of China (Taiwan) for Austrian Citizens Joining the Working Holiday Scheme\r\n\r\n    Qualifications:Applicants are qualified if they meet the following requirements:\r\n        Being an Austrian citizen residing in Austria at the time of application;\r\n        Never being a Working Holiday maker in Taiwan;\r\n        Being between the ages of 18 and 30 inclusive on the date of application;\r\n        Not being accompanied by spouse or dependants, unless they are also in possession of working holiday visas.\r\n    Required documents:\r\n        An online completed, printed out and signed ROC (Taiwan) visa application form ( available at https://visawebapp.boca.gov.tw) for the Working Holiday Scheme;\r\n        An Austrian passport valid for more than 1 year;\r\n        Two colour passport-size photos taken within 6 months;\r\n        Valid medical and comprehensive hospitalization insurance throughout her/his stay in Taiwan;\r\n        Proof of financial support at least \u20ac4000, or rather \u20ac2500 plus a valid return or onward flight ticket;\r\n        Non-refundable application fee of \u20ac86.\r\n    Application procedures:\r\n        Applications may be made in person, or by an authorized third party;\r\n        Applications must be submitted to the Taipei Representative Office in Austria.\r\n        Applicants may be requested to provide additional documents or to be interviewed as necessary.\r\n    Type of visa issued:\r\n        Type: Visitor Visa;\r\n        Validity:  One year from the date of issue, good for multiple entries;\r\n        Duration of stay: 180 days, extendable for another 180 days.\r\n        An extension of up to 180 days can be applied for, 15 days prior to the expiry of stay, at the National Immigration Agency service center in the city or county of residence in Taiwan.\r\n        The total duration of stay can not exceed one year from the date of entry into Taiwan.\r\n        No further extensions or changes of visa type will be permitted thereafter.\r\n    Notice:\r\n        The annual visa quota in the Scheme is fifty (50).\r\n        Visa holders in the Scheme are permitted to engage in temporary employment during their visit and can work for one or more employers during their visit;\r\n        Visa holders in the Scheme are permitted to engage in any study or educational courses for a total period of up to six (6) months during their visit.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-380-15e08-2.html",
+        "start_date": "2015-01-26",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 100,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "DE",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Qualifications for Visa Applicants\r\n\r\nIn accordance with the Working Holiday Scheme Arrangements signed between the Republic of China and other countries, citizens of contracting countries who have met the following qualifications may apply for working holiday visas: \r\n\r\n    Nationality: Applicants shall be citizens of contracting countries and shall have not been a previous recipient of an ROC working holiday visa.\r\n    Purpose: Applicants must prove to the ROC Embassy, Consulate and overseas missions issuing the visas that their primary intention is to holiday in the ROC, with employment being an incidental rather than a primary reason for the visit and will leave the ROC before the visa expires.\r\n    Age: The age of applicants shall be between 18 and 30 years, both inclusive, at the time of application.\r\n    Family members of working holiday visa holders, including spouse and children, shall not apply for visas as dependents to come along.\r\n    Validity of passport: When submitting an application, the applicants\u2019 passport should be valid for more than 12 months upon planned arrival in the ROC.\r\n    Valid flight ticket: Applicants must hold a round trip flight ticket or have financial proof of the capability to purchase it.\r\n    Living expenses: Applicants shall be required to have at least  \u20ac2,000 or an equivalent amount of foreign currency as their living expenses during their stay in the ROC.\r\n    Medical insurance: Applicants shall have full medical and hospitalization insurance during their stay in the ROC.\r\n\r\nRequired documents\r\n\r\n    Visa Application form for Working Holiday Makers (Applicants shall fill and sign the form);\r\n    Passport valid for more than one year planned in the ROC;\r\n    Two 2-inch colour photos taken within 6 months;\r\n    Round trip flight ticket or proof of the capability to purchase it;\r\n    Financial proof of at least  \u20ac2,000 of living expenses (such as travellers check or bank statement);\r\n    Proof of full medical and hospitalization insurance during the stay in the ROC;\r\n    Visa fee:  \u20ac86;\r\n    Other required documents as required.\r\n\r\nNotes\r\n\r\n    Place of application: Applicants shall apply for visas at the Taipei Office in Berlin, Hamburg, Munich and Frankfurt, Germany.\r\n    Delivery of documents: Documents shall be sent by applicants themselves, or by a commissioned a proxy or travel agency, but visa officers may request and interview with the applicants.\r\n    Regulations after entry: Working holiday visa holders shall not apply for changing to other types of visas based on other reasons once they enter the ROC.\r\n    Visa application refusal: In accordance with Article 12 of the Statute Governing Issuance of ROC Visas on Foreign Passports, the ROC government has the right to deny the issue of a visa without disclosing the reason. In addition, in accordance with Article 7 of Standard Fee Rates for ROC visas on Foreign Passports, \u201cif visa applications are denied, the application fees charged are not refundable.\u201d\r\n    Qualification for German Visa Applicants (pdf file)",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-390-4cbaf-2.html",
+        "start_date": "2010-10-11",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 101,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "IE",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Applications to the Republic of China (Taiwan) for Irish Citizens Joining the Working Holiday Programme\r\n\r\n    1. Qualifications:\r\n    Applicants are qualified if they meet the following requirements:\r\n        Being an Irish citizen residing in Ireland at the time of application;\r\n        Never being a Working Holidaymaker in Taiwan;\r\n        Being between the ages of 18 and 30 inclusive on the date of application;\r\n        Not being accompanied by spouse or dependants, unless they are also in possession of working holiday visas.\r\n    Required documents: \r\n        An online completed, printed out and signed ROC (Taiwan) visa application form ( available at https://visawebapp.boca.gov.tw) for the Working Holiday Programme;\r\n        An Irish passport valid for 6 months more than the proposed duration of stay;\r\n        Two colour passport-size photos;\r\n        Proof of overseas travel health insurance for the duration of permitted stay;\r\n        A non-criminal record;\r\n        Proof of financial support at least \u20ac4000, or rather \u20ac2500 plus a valid return or onward flight ticket;\r\n        Non-refundable application fee of \u20ac86.\r\n    Application procedures: \r\n        Applications may be made in person, or by an authorized third party;\r\n        Applications must be submitted to the Taipei Representative Office in Ireland.\r\n        Applicants may be requested to provide additional documents or to be interviewed as necessary.\r\n    Type of visa issued:\r\n        Type: Visitor Visa; \r\n        Validity: One year from the date of issue, good for multiple entries;\r\n        Duration of stay: 180 days, extendable for another 180 days.\r\n\r\n    An extension of up to 180 days can be applied for, 15 days prior to the expiry of stay, at the National Immigration Agency service center in the city or county of residence in Taiwan. \r\n    The total duration of stay will be no more than one year from the date of entry into Taiwan. \r\n    No further extensions or changes of visa type will be permitted thereafter.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-388-4761a-2.html",
+        "start_date": "2013-01-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 102,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "AU",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Application to the Republic of China (Taiwan) for Australian Nationals Joining the Working Holiday Program\r\n\r\n    Qualification requirements \r\n        Be between the ages of 18 and 30 (inclusive) on the date the application is submitted. \r\n        Come unaccompanied by dependents. \r\n        Not have previously benefited from this Working Holiday Program.\r\n    Required Documents: \r\n    Applicants who meet the above requirements should submit the following documents: \r\n        Two 2-inch color passport photos\r\n        Proof of overseas travel health insurance for the duration of stay\r\n        A certificate of good conduct \r\n        A medical report issued within the past three months \r\n        Proof of a valid return ticket or sufficient sources to purchase one\r\n        Proof of sufficient financial resources (at least A$5,000)\r\n        Hold a valid Australian passport from the day the visa is issued\r\n    Type of Visa issued:Visitor Visa\r\n\r\nNotice: Australian participants will initially receive a visa good for six-month stay which can be extended for additional six months. No later than 15 days before the expiry of their first six-month stay, participants may apply for the extension at the National Immigration Agency service center in their city or county of residence in Taiwan. No further extensions or changes to visa type will be permitted thereafter. Participants should not work for the same employer for more than six months during their visit. Participants may enroll in any training or study course of up to four months duration during the course of their visit to Taiwan.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-385-82089-2.html",
+        "start_date": "2004-11-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 103,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "BE",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Application to the Republic of China (Taiwan) for Candidate Citizens Joining the Working Holiday Program\r\n\r\n    Qualification requirements \r\n        Be between the ages of 18 and 30 (inclusive) on the date the application is submitted. \r\n        Come unaccompanied by dependents. \r\n        Not have previously benefited from this Working Holiday Program.\r\n    Required Documents: \r\n    Applicants who meet the above requirements should submit the following documents: \r\n        Two 2-inch color passport photos\r\n        Proof of overseas travel health insurance for the duration of stay\r\n        A certificate of good conduct \r\n        A medical report issued within the past three months \r\n        Proof of a valid return ticket or sufficient sources to purchase one\r\n        Proof of sufficient financial resources (at least \u20ac2500)\r\n        Hold a Belgian passport valid for at least fifteen months from the day the visa is issued.\r\n    Application procedure: \r\n    Step 1 Go to the Taipei Representative Office in the EU and Belgium to submit the following documents IN PERSON: \r\n        A completed and signed visa application form (available at https://visawebapp.boca.gov.tw) for the working holiday program\r\n        Two 2-inch color passport photos\r\n        Proof of overseas travel health insurance for the duration of stay\r\n        A certificate of good conduct \r\n        A medical report issued within the past three months \r\n        Proof of a valid return ticket or sufficient sources to purchase one\r\n        Proof of sufficient financial resources (at least \u20ac2500)\r\n    Step 2: Pay the non-refundable application fee of \u20ac86.\r\n    Type of Visa issued:Visitor Visa\r\n\r\n\r\nNotice: Belgian participants will initially receive a six-month visa which can be extended for additional six months. No later than 15 days before the expiry of their six-month visa, participants may apply for the extension at the National Immigration Agency service center in their city or county of residence in Taiwan. No further extensions or changes to visa type will be permitted thereafter. Participants are permitted to engage in either employment or study/training for no more than six months of their stay.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-386-9ec0e-2.html",
+        "start_date": "2013-03-29",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 104,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "KR",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Application to the Republic of China (Taiwan) for Korean Candidate Citizens Joining the Working Holiday Program\r\n\r\n    Qualification requirements \r\n        Korean citizens residing in Korea with the ages between 18 and 30 (inclusive) on the date the application is submitted.\r\n        Not have previously benefited from this Working Holiday Program.\r\n        The main purpose is to have vacation in Taiwan with part time jobs to cover the expenses of the stay which will be no longer than one year after the arrival in Taiwan.\r\n    Required Documents: \r\n    Applicants who meet the above requirements should submit the following documents: \r\n        A Completed Working Holiday Program Application Form with CV and plan of stay\r\n        Two 2-inch color passport photos taken within 6 months prior to the application date\r\n        Proof of health examination and overseas travel health insurance for the duration of stay\r\n        A medical report issued within the past three months \r\n        Proof of a valid return ticket or sufficient sources to purchase one\r\n        Proof of sufficient financial resources (at least 3million KRW)\r\n        Hold a Korean passport valid for at least fifteen months from the day the visa is issued.\r\n    Application procedure: \r\n        Submit the application documents at the Taipei Mission in Korea or Taipei Mission in Busan IN PERSON\r\n        Submit other documents if requested after interviewing by the official at the above mission\r\n    Type of Visa issued:\r\n\r\n    Korean participants will initially receive a six-month visitor visa which can be extended for additional six months. No later than 15 days before the expiry of their six-month visa, participants may apply for the extension at the National Immigration Agency service center in their city or county of residence in Taiwan. No further extensions or changes to visa type will be permitted thereafter. Participants are permitted to engage in either employment or study/training for no more than six months of their stay.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-383-76a8a-2.html",
+        "start_date": "2011-01-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 105,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "NZ",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Application to the Republic of China (Taiwan) for New Zealand Nationals Joining the Working Holiday Program\r\n\r\n     Qualification requirements \r\n        Be between the ages of 18 and 30 (inclusive) on the date the application is submitted. \r\n        Come unaccompanied by dependents. \r\n        Not have previously benefited from this Working Holiday Program.\r\n    Required Documents: \r\n    Applicants who meet the above requirements should submit the following documents: \r\n        Two 2-inch color passport photos\r\n        Proof of overseas travel health insurance for the duration of stay\r\n        A certificate of good conduct \r\n        A medical report issued within the past three months \r\n        Proof of a valid return ticket or sufficient sources to purchase one\r\n        Proof of sufficient financial resources \r\n        Hold a valid New Zealand passport from the day the visa is issued\r\n    Type of Visa issued:Visitor Visa\r\n\r\nNotice: New Zealand participants will initially receive a visa good for six-month stay which can be extended for additional six months. No later than 15 days before the expiry of their first six-month stay, participants may apply for the extension at the National Immigration Agency service center in their city or county of residence in Taiwan. No further extensions or changes to visa type will be permitted thereafter. Participants should not work for the same employer for more than three months during their visit. Participants are not allowed to undertake any formal course other than Chinese language courses up to three months duration.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-384-61266-2.html",
+        "start_date": "2004-06-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 106,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "SK",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Applications to the Republic of China (Taiwan) for Slovak Citizens Joining the Working Holiday Scheme\r\n\r\n    Qualifications:\r\n    Applicants are qualified if they meet the following requirements:\r\n        Being a Slovak citizen residing in Slovakia at the time of application;\r\n        Never being a Working Holiday maker in Taiwan;\r\n        Being between the ages of 18 and 35 inclusive on the date of application;\r\n        Not being accompanied by spouse or dependants, unless they are also in possession of working holiday visas.\r\n    Required documents: \r\n        An online completed, printed out and signed ROC (Taiwan) visa application form ( available at https://visawebapp.boca.gov.tw) for the Working Holiday Scheme;\r\n        A Slovak passport valid for more than 18 months after the day of visa issuing ;\r\n        Two colour passport-size photos taken within 6 months;\r\n        Valid medical and comprehensive hospitalization insurance throughout their stay in Taiwan;\r\n        A non-criminal record;\r\n        Proof of financial support at least \u20ac4000, or rather \u20ac2500 plus a valid return or onward flight ticket;\r\n        Non-refundable application fee of \u20ac86.\r\n    Application procedures: \r\n        Applications must be made in person;\r\n        Applications must be submitted to the Taipei Representative Office in Slovakia.\r\n        Applicants may be requested to provide additional documents or to be interviewed as necessary.\r\n    Type of visa issued:\r\n        Type: Visitor Visa; \r\n        Validity: One year from the date of issue, good for multiple entries;\r\n        Duration of stay: 180 days, extendable for another 180 days.\r\n        An extension of up to 180 days can be applied for, 15 days prior to the expiry of stay, at the National Immigration Agency service center in the city or county of residence in Taiwan. \r\n        The total duration of stay will be no more than one year from the date of entry into Taiwan. \r\n        No further extensions or changes of visa type will be permitted thereafter.\r\n    Notice:\r\n        Participants in the Scheme are permitted to engage in temporary employment during their visit and should not work for a total period of more than six (6) months during their visit; \r\n        Participants in the Scheme are not permitted to engage in any study or training for a total period of more than six (6) months during their visit;.",
+        "min_age": 18,
+        "max_age": 35,
+        "link": "https://www.boca.gov.tw/cp-153-382-30a10-2.html",
+        "start_date": "2014-10-23",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 107,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "PL",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Applications to the Republic of China (Taiwan) for Polish Citizens Joining the Working Holiday Scheme\r\n\r\n    Qualifications:Applicants are qualified if they meet the following requirements:\r\n        Being a Polish citizen residing in Poland at the time of application;\r\n        Never being a Working Holiday maker in Taiwan;\r\n        Being between the ages of 18 and 30 inclusive on the date of application;\r\n        Not being accompanied by spouse or dependants, unless they are also in possession of working holiday visas.\r\n    Required documents: \r\n        An online completed, printed out and signed ROC (Taiwan) visa application form ( available at https://visawebapp.boca.gov.tw) for the Working Holiday Scheme;\r\n        A Polish passport issued not earlier than ten years before applying for a visa, having at least two blank pages and valid at least 90 days after planned date of leaving Taiwan ;\r\n        Two colour passport-size photos taken within 6 months;\r\n        All-risk insurance covering them for accidents at work and for healthcare, including all medical costs and hospitalization, for the full duration of their stay in Taiwan;\r\n        A non-criminal record;\r\n        Proof of financial support at least \u20ac4000, or rather \u20ac2500 plus a valid return or onward flight ticket;\r\n        Non-refundable application fee of \u20ac74.\r\n    Application procedures: \r\n        Applications must be made in person;\r\n        Applications must be submitted to the Taipei Representative Office in Poland.\r\n        Applicants may be requested to provide additional documents or to be interviewed as necessary.\r\n    Type of visa issued:\r\n        Type: Visitor Visa; \r\n        Validity: One year from the date of issue, good for multiple entries;\r\n        Duration of stay: 180 days, extendable for another 180 days.\r\n        An extension of up to 180 days can be applied for, 15 days prior to the expiry of stay, at the National Immigration Agency service center in the city or county of residence in Taiwan. \r\n        The total duration of stay can not exceed one year from the date of entry into Taiwan. \r\n        No further extensions or changes of visa type will be permitted thereafter.\r\n    Notice:\r\n        Participants in the Scheme are permitted to engage in temporary employment during their visit and should not work for a total period of more than six (6) months during their visit; \r\n        Participants in the Scheme are not permitted to engage in any study or training for a total period of more than six (6) months during their visit.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-381-c7b09-2.html",
+        "start_date": "2014-12-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 108,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "CZ",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for Visa Applications to the Republic of China (Taiwan) for Czech Citizens Joining the Working Holiday Scheme\r\n\r\n    Qualifications:Applicants must meet the following requirements:\r\n        Being a Czech citizen residing in Czech Republic at the time of application;\r\n        Never being a Working Holiday maker in Taiwan;\r\n        Being between the ages of 18 and 26 inclusive on the date of application;\r\n        Not being accompanied by spouse or dependants, unless they are also in possession of working holiday visas.\r\n    Required documents:\r\n        An online completed, printed out and signed ROC (Taiwan) visa application form ( available at https://visawebapp.boca.gov.tw/) for the Working Holiday Scheme;\r\n        A Czech passport valid for more than 12 months after the day of visa issuing ;\r\n        Two color passport-size photos taken within 6 months;\r\n        Proof of financial support at least \u20ac4000, or rather \u20ac2500 plus a valid return or onward flight ticket;\r\n        Valid medical and comprehensive hospitalization insurance throughout their stay in Taiwan;\r\n        A non-criminal record;\r\n        Non-refundable application fee of \u20ac86.\r\n    Application procedures:\r\n        Applications must be made in person;\r\n        Applications must be submitted to the Taipei Economic and Cultural Office, Prague.\r\n        Applicants may be requested to provide additional documents or to be interviewed if necessary.\r\n     Type of visa issued:\r\n        Type: Visitor Visa;\r\n        Validity: One year from the date of issue, good for multiple entries;\r\n        Duration of stay: 180 days, extendable for another 180 days.\r\n        An extension of up to 180 days can be applied for, 15 days prior to the expiry of stay, at the National Immigration Agency service center in the city or county of residence in Taiwan.\r\n        The total duration of stay will be no longer than one year from the date of entry into Taiwan.\r\n        No further extensions or changes of visa type will be permitted thereafter.\r\n    Notice:\r\n        The annual visa quota in the Scheme is 100.\r\n        Participants in the Scheme are permitted to engage in temporary employment, study or training during their visit and the length of such activities should not exceed six (6) months during their visit.",
+        "min_age": 18,
+        "max_age": 26,
+        "link": "https://www.boca.gov.tw/cp-153-341-feadc-2.html",
+        "start_date": "2016-04-18",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 109,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "FR",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Proc\u00e9dure \u00e0 l\u2019attention des ressortissants fran\u00e7ais concernant les demandes de visa \u00ab vacances-travail \u00bb pour Taiwan \r\n\r\n    Crit\u00e8res d\u2019\u00e9ligibilit\u00e9 :\r\n        Etre d\u00e9tenteur d\u2019un passeport fran\u00e7ais en cours de validit\u00e9\r\n        Ne jamais avoir obtenu ce type de visa auparavant\r\n        Etre \u00e2g\u00e9 de 18 \u00e0 30 ans r\u00e9volus \u00e0 la date du d\u00e9p\u00f4t de la demande de visa\r\n        Faire une demande individuelle et ne pas \u00eatre accompagn\u00e9 de non- b\u00e9n\u00e9ficiaires du programme \u00ab vacances-travail \u00bb\r\n        ATTENTION : Le stage n'est pas autoris\u00e9 dans le cadre d'un visa \u00ab Vacances-travail \u00bb. Pour effectuer un stage \u00e0 Taiwan, vous devez demander le visa STAGE.\r\n    Pi\u00e8ces \u00e0 fournir :\r\n        Formulaire de demande de visa \u00ab vacances-travail \u00bb (\u00e0 remplir sur le site https://visawebapp.boca.gov.tw), imprim\u00e9 et sign\u00e9\r\n        Passeport fran\u00e7ais original d'une validit\u00e9 d'au moins 12 mois lors du d\u00e9p\u00f4t de la demande de visa\r\n        2 photos d\u2019identit\u00e9 couleur datant moins de 6 mois conformes \u00e0 la norme requise pour les passeports\r\n        Certificat d\u2019assurance couvrant l'ensemble des risques li\u00e9s \u00e0 la maladie-maternit\u00e9-invalidit\u00e9 et \u00e0 l\u2019hospitalisation tout au long du s\u00e9jour \u00e0 Taiwan, et les frais de rapatriement \u00e9ventuel\r\n        Extrait de casier judiciaire datant de moins de 6 mois\r\n        Justificatifs de possession d\u2019une somme de 2100 euros et preuve de r\u00e9servation d\u2019un billet d\u2019avion aller-retour\r\n        Formulaire visite m\u00e9dicale original (moins de 3 mois)\r\n            Il s\u2019agit d\u2019un formulaire de deux pages \u00e0 faire remplir, dater et signer par un m\u00e9decin traitant (Chief Physician) qui apposera son cachet. (Les signatures du Chief Medical Technologist et du Superintendent ne sont pas n\u00e9cessaires)\r\n            Il n\u2019est pas n\u00e9cessaire de fournir les r\u00e9sultats d\u2019analyse sanguine ou de radiologie\r\n        Frais de visa : 86 euros (non remboursable)\r\n    Proc\u00e9dure :\r\n        Les demandes doivent \u00eatre d\u00e9pos\u00e9es personnellement (pas de procuration possible).\r\n        Les demandes doivent \u00eatre d\u00e9pos\u00e9es aupr\u00e8s du service consulaire du Bureau de Repr\u00e9sentation de Taipei en France.\r\n        Le service consulaire du Bureau de Repr\u00e9sentation de Taipei en France se r\u00e9serve le droit de demander des justificatifs compl\u00e9mentaires; les demandeurs pourront \u00eatre \u00e9galement soumis \u00e0 un entretien si n\u00e9cessaire.\r\n    Type de visa d\u00e9livr\u00e9\r\n        Visa visiteur\r\n        Validit\u00e9 : 1 an (\u00e0 compter de la date de d\u00e9livrance) \u00e0 entr\u00e9es multiples\r\n\r\nDur\u00e9e d\u2019un s\u00e9jour \u00ab vacances-travail \u00bb :\r\n\r\n180 jours, renouvelable 15 jours avant l\u2019\u00e9ch\u00e9ance de la dur\u00e9e de s\u00e9jour aupr\u00e8s du service local de l\u2019Agence Nationale de l\u2019Immigration du Minist\u00e8re de l\u2019Int\u00e9rieur pour une dur\u00e9e maximum de 180 jours. La dur\u00e9e totale du s\u00e9jour est d\u2019un an \u00e0 compter de la date d\u2019entr\u00e9e, non prolongeable et sans possibilit\u00e9 d\u2019\u00e9volution vers un autre visa",
+        "min_age": null,
+        "max_age": null,
+        "link": "https://www.boca.gov.tw/cp-153-340-12229-2.html",
+        "start_date": "2016-08-08",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 110,
+    "fields": {
+        "eligiblevisa": 9,
+        "country": "CA",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines for visa applications to the Republic of China (Taiwan) for Canadian citizens joining the Youth Mobility Program\r\n\r\n1.  Qualification requirements\r\n     Applicants qualify if they:\r\n\r\na. hold Canadian citizenship;\r\nb. have not previously obtained an R.O.C. (Taiwan) visa for the Youth Mobility Program;\r\nc. are between the ages of 18 and 35 on the date of application;\r\nd. have arranged an internship, traineeship or job in Taiwan in advance; have registered at an institution of tertiary education and arranged either a traineeship or job in Taiwan in advance; or intend to travel in Taiwan and join the Youth Mobility Program by working in Taiwan (Work should be the secondary, rather than primary, reason for coming to Taiwan; the total duration of stay in Taiwan shall be no more than one year from the date of entry);\r\ne. do not list dependents on their application; and\r\nf. have prepared required documentation and funds as detailed below, and properly submitted the documentation.\r\n\r\n2. Required documentation and funds\r\n\r\na. R.O.C. (Taiwan) visa application form for the Youth Mobility Program completed and signed by the applicant\r\nb. Curriculum vitae and general plan for stay in Taiwan\r\nc. Passport with at least one year of remaining validity as of the date of application\r\nd. Two 2-inch color passport photos taken within the six months prior to the date of application\r\ne. Proof of health insurance for the entire duration of stay in Taiwan\r\nf. Health check certificate\r\ng. Proof of possession of ticket to leave Taiwan or sufficient funds to purchase such ticket\r\nh. Proof of possession of C$2,500 or its equivalent (e.g., traveler\u2019s checks or bank deposits)\r\ni. Visa fee of US$100\r\n\r\n3. Application procedures\r\n\r\na. Applications can be made either in person or through a properly authorized third party.\r\nb. Applications must be submitted to the Taipei Economic and Cultural Office (TECO) in Ottawa, Toronto or Vancouver; to the Bureau of Consular Affairs (Taipei); or to any of the four regional offices in Taiwan (Taichung, Chiayi, Kaohsiung, Hualien) of the Ministry of Foreign Affairs.\r\nc. Applicants should submit additional documentation and undergo an interview if so requested.\r\n\r\n4. Type of visa issued\r\n\r\na. Type: Visitor visa (marked \u201cWH\u201d for Youth Mobility Program purposes)\r\nb. Validity: One year from the date of issue; multiple entries allowed\r\nc. Duration of stay: 180 days. Within 15 days prior to expiry, the holder may apply for an extension at the National Immigration Agency service center in the city or county of residence in Taiwan. No further extensions or changes to visa type will be permitted thereafter.",
+        "min_age": 18,
+        "max_age": 35,
+        "link": "https://www.boca.gov.tw/cp-153-387-729ca-2.html",
+        "start_date": "2010-07-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 111,
+    "fields": {
+        "eligiblevisa": 9,
+        "country": "GB",
+        "all_countries": false,
+        "conditional": true,
+        "condition": "Guidelines on Applications for a Youth Mobility Scheme (YMS) Resident Visa to the Republic of China (Taiwan) by Citizens of the United Kingdom\r\n\r\n    Qualification of Applicants\r\n    Applicants for a YMS resident visa to the Republic of China (Taiwan) should possess the following qualifications:\r\n        be UK citizens residing in the UK at the time of application;\r\n        have never before obtained a YMS resident visa to the Republic of China (Taiwan);\r\n        be between 18 and 30 years in age, inclusively;\r\n        not planning to be accompanied by dependents during the time in Taiwan; and\r\n        have submitted all required documents.\r\n    To apply for a YMS resident visa, applicants should submit the following documents:\r\n        completed application form for YM resident visa (signed personally) and application form for the YMS Approval Letter;\r\n        a resume;\r\n        a passport valid for a minimum of 1 year at the time of submission;\r\n        two 2\u201dx 2\u201d color photographs taken within six months prior to application;\r\n        proof of travel medical insurance coverage during one\u2019s stay in the Republic of China (Taiwan), which should be valid for at least the first 4 months of the planned stay;\r\n        round-trip flight ticket or proof of sufficient funds for the purchase of a return trip;\r\n        proof of sufficient financial means, such as traveler\u2019s checks or bank statements to the value of \uffe11600;\r\n        the equivalent of US$66 in British pounds for the application fee.\r\n    Application Procedures\r\n        Applications may be made in person, by an authorised third party or by post.\r\n        Applications must be submitted to the London Office or to the Edinburgh Office of the Taipei Representative Office in the UK.\r\n        Applicants may be requested to provide additional documents or to be interviewed as necessary.\r\n    Type of Visa Issued\r\n        Type: Resident Visa \r\n        Duration of stay: 1 year, starting from the day after the date of entry\r\n        Application for Alien Resident Certificates (ARC) and restrictions: Those entering Taiwan on a YMS resident visa must apply for an ARC and a Re-entry Permit at local service centers of the National Immigration Agency within 15 days starting from the day after the date of entry. Once this step is completed, they will not be allowed to change their visa status while in Taiwan.",
+        "min_age": 18,
+        "max_age": 30,
+        "link": "https://www.boca.gov.tw/cp-153-389-8d3b8-2.html",
+        "start_date": "2012-01-01",
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 112,
+    "fields": {
+        "eligiblevisa": 10,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 113,
+    "fields": {
+        "eligiblevisa": 11,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 114,
+    "fields": {
+        "eligiblevisa": 12,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 115,
+    "fields": {
+        "eligiblevisa": 13,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 116,
+    "fields": {
+        "eligiblevisa": 14,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 117,
+    "fields": {
+        "eligiblevisa": 15,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 118,
+    "fields": {
+        "eligiblevisa": 14,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 119,
+    "fields": {
+        "eligiblevisa": 17,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 120,
+    "fields": {
+        "eligiblevisa": 18,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 121,
+    "fields": {
+        "eligiblevisa": 19,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 122,
+    "fields": {
+        "eligiblevisa": 20,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 123,
+    "fields": {
+        "eligiblevisa": 21,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 124,
+    "fields": {
+        "eligiblevisa": 22,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 125,
+    "fields": {
+        "eligiblevisa": 23,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 126,
+    "fields": {
+        "eligiblevisa": 24,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 127,
+    "fields": {
+        "eligiblevisa": 25,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 128,
+    "fields": {
+        "eligiblevisa": 26,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 129,
+    "fields": {
+        "eligiblevisa": 27,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 130,
+    "fields": {
+        "eligiblevisa": 28,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 131,
+    "fields": {
+        "eligiblevisa": 29,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": 20,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 132,
+    "fields": {
+        "eligiblevisa": 30,
+        "country": "TW",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 133,
+    "fields": {
+        "eligiblevisa": 30,
+        "country": "CN",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 134,
+    "fields": {
+        "eligiblevisa": 30,
+        "country": "HK",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 135,
+    "fields": {
+        "eligiblevisa": 30,
+        "country": "MO",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 136,
+    "fields": {
+        "eligiblevisa": 31,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 137,
+    "fields": {
+        "eligiblevisa": 32,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 138,
+    "fields": {
+        "eligiblevisa": 33,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 139,
+    "fields": {
+        "eligiblevisa": 34,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 140,
+    "fields": {
+        "eligiblevisa": 35,
+        "country": "",
+        "all_countries": true,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 141,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "JP",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": 18,
+        "max_age": 30,
+        "link": null,
+        "start_date": "2009-06-01",
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 142,
+    "fields": {
+        "eligiblevisa": 8,
+        "country": "HU",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": 18,
+        "max_age": 30,
+        "link": null,
+        "start_date": "2014-12-31",
+        "end_date": null,
+        "update_date": "2019-09-06"
     }
 },
 {
@@ -1582,6 +2638,655 @@
             3
         ],
         "eligibilities": []
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 8,
+    "fields": {
+        "name": "Working Holiday",
+        "description": "Working Holiday",
+        "duration": 180,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/lp-153-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": true,
+        "requirements": "The ROC government enters into Arrangements on a working Holiday Scheme with foreign governments in order to promote people-to-people exchanges, encourage and enhance the interaction of ROC youth with those of other countries, and increase mutual understanding. The primary intention of working holiday makers for coming to Taiwan is to holiday, but they may supplement their funds and to experience a foreign culture through incidental employment. Therefore, this scheme shall not apply to those who seek full-time jobs, to study, or to stay for long periods for other purposes. The ROC visas issued shall be marked with \u201cWH\u201d.\r\n\r\nValidity of Visa\r\n\r\nThe visa is valid for a period of 12 months. Visa holders may enter Taiwan from the date of issue until the date of expiry of the visa.\r\n\r\nDuration of Stay\r\n\r\nThe initial duration of stay shall be 180 days, which may be extended while the visa is still valid. Application for extensions shall be made to the National Immigration Agency service center in the city or county where the working holiday maker stays 15 days prior to the initial duration of stay expires. The total duration of stay will be no more than one year from the date of entry into Taiwan.\r\n\r\nEntries\r\n\r\nWorking holiday makers shall be issued multiple entry visas, which allow for multiple entries to and exit from the Republic of China during the validity of the visa.\r\n\r\nActivities after Entrance\r\n\r\n           (1)Work permit not needed\r\n               As long as in accordance with the purpose of entry, working holiday makers may work legally during their stay in the Republic of China to earn their living expenses. However, they should not work for the same employer for more than 3 months (The working holiday visa holders from Korea, Japan, Canada and the U.K. are exempt from this limitation; visa holders from Australia should not work for more than 6 months.) In accordance with Article 4 of \u201cRegulations Governing the Permits for Employing Foreigners and Management\u201d, working holiday visas issued by the ROC Embassy, Consulate and overseas missions shall be regarded as work permits. Therefore, visa holders do not need to apply for a work permit with the Council of Labor Affairs of the Executive Yuan. However, those who engage in professional or technical work shall meet the necessary qualification and laws of registration for practice required by the Republic of China. In addition, visa holders should not work for longer than the validity of the visa. For more information on related employment regulations, please log on to the website of the Bureau of Employment and Vocational Training of the Council of Labor Affairs of the Executive Yuan:\r\nhttp://www.evta.gov.tw/eng/home/index.asp\r\n\r\n          (2)Study Time Limit\r\nAs the main purpose of working holiday makers is not full-time studies, applicants cannot undertake any formal courses other than Chinese language courses in Taiwan of no more than 3 months duration. The limit of the period of studying Chinese is variable (please refer to every bilateral agreement on working holiday scheme for details). The language centers of Universities recognized by the Ministry of Education shall be based on the latest list announced by the Ministry of Education. The working holiday visa holders from Australia may enroll in any training or study course up to four months duation during the course of their visit to Taiwan. Please browse the website of ministry of find this information: http://english.moe.gov.tw/mp.asp?mp=1\r\n\r\n          (3)As for tax payment related to employment, please refer to the website of the National Tax Administration of Northern Taiwan Province, Ministry of Finance :http://www.ntx.gov.tw/English/EnglishIndex.aspx\r\n\r\n         (4)Information for foreigners, please browse:http://www.immigration.gov.tw/mp.asp?mp=2\r\n\r\nIn accordance with the Working Holiday Scheme Arrangements signed between the Republic of China and other countries, citizens of contracting countries who have met the following qualifications may apply for working holiday visas:\r\n\r\n \r\n\r\n1    Nationality: Applicants shall be citizens of contracting countries and shall have not been a previous recipient of an ROC working holiday visa.\r\n2    Purpose: Applicants must prove to the ROC Embassy, Consulate and overseas missions issuing the visas that their primary intention is to holiday in the ROC, with employment being an incidental rather than a primary reason for the visit.\r\n3    Age: The age of applicants shall be between 18 and 30 years, both inclusive, at the time of application.\r\n4    Family members of working holiday visa holders, including spouse and children, shall not apply for visas as dependents to come along.\r\n5    Validity of passport: When submitting an application, the applicants\u2019 passport should be valid for more than 12 months upon planned arrival in the ROC.\r\n6    Valid flight ticket: Applicants must hold a round trip flight ticket or have financial proof of the capability to purchase it.\r\n7    Living expenses: Applicants shall be required to have at least NT$ 100,000 or an equivalent amount of foreign currency as their living expenses during their stay in the ROC.\r\n8    Medical insurance: Applicants shall have full medical and hospitalization insurance during their stay in the ROC.\r\n\r\n\r\nRequired Documents\r\n1    Visa Application form for Working Holiday Makers (Applicants shall fill and sign the form);\r\n2    Passport valid for more than one year planned in the ROC;\r\n3    Two 2-inch color photos taken within 6 months;\r\n4    Round trip flight ticket or proof of the capability to purchase it;\r\n5    Financial proof of at least NT$ 100,000 of living expenses (such as travelers check or bank statement);\r\n6    Proof of full medical and hospitalization insurance during the stay in the ROC;\r\n7    Visa fee:NT$3,200(US$100);\r\n8    Health certificate is required for Australian applicants according to the Working Holiday Scheme Arrangements signed between ROC and Australia;\r\n9    Other required documents as required.\r\n\r\n\r\n\r\nNotes:\r\n1    Place of application: Applicants shall apply for visas at the ROC Embassy, Consulate and overseas missions in the applicable country.\r\n2    Delivery of documents: Documents shall be sent by applicants themselves, or by a commissioned a proxy or travel agency, but visa officers may request and interview with the applicants.\r\n3    Regulations after entry: Working holiday visa holders shall not apply for changing to other types of visas based on other reasons once they enter the ROC.\r\n4    Visa application refusal: In accordance with Article 12 of the Statute Governing Issuance of ROC Visas on Foreign Passports, the ROC government has the right to deny the issue of a visa without disclosing the reason. In addition, in accordance with Article 7 of Standard Fee Rates for ROC visas on Foreign Passports, \u201cif visa applications are denied, the application fees charged are not refundable.\u201d",
+        "category": [
+            1,
+            3
+        ],
+        "eligibilities": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 9,
+    "fields": {
+        "name": "Youth Mobility",
+        "description": "Youth Mobility Scheme (YMS)",
+        "duration": 180,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/lp-153-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": true,
+        "requirements": "4. Type of visa issued\r\n\r\na. Type: Visitor visa (marked \u201cWH\u201d for Youth Mobility Program purposes)\r\nb. Validity: One year from the date of issue; multiple entries allowed\r\nc. Duration of stay: 180 days. Within 15 days prior to expiry, the holder may apply for an extension at the National Immigration Agency service center in the city or county of residence in Taiwan. No further extensions or changes to visa type will be permitted thereafter.",
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "eligibilities": [
+            110,
+            111
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 10,
+    "fields": {
+        "name": "Foreign Exchange Students Visitor Visa",
+        "description": "Visitor Visas for Foreign Exchange Students for Stays of less than Six Months",
+        "duration": 180,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-4342-a78b4-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "\u200bExchange students in Taiwan for a period of six months or less are to abide by the Regulations Regarding International Students Undertaking Studies in Taiwan.\r\n\r\nFor university/college exchange students, a letter of admission issued by the university/college they intend to enroll in is required.",
+        "category": [
+            2
+        ],
+        "eligibilities": [
+            112
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 11,
+    "fields": {
+        "name": "Employment-Seeking Visitor Visa",
+        "description": "Visitor visa for Employment-Seeking Purpose",
+        "duration": 180,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-4158-09d5a-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Proof of meeting one of the following conditions\r\n\r\n    Employment experience, with an average monthly salary or remuneration over the past six months that is not lower than the amount ,NT$47,971\r\n    Graduated within the past year from any of the world\u2019s top 500 universities as listed by the ROC Ministry of Education, and not yet employed\r\n    Deemed otherwise eligible by the Ministry of Foreign Affairs following consultations with the central competent authority\r\n\r\nProof of sufficient financial resources ( at least NT$100,000 or its equivalent ) \t \r\nProof of health and full hospitalization insurance for the entire duration of stay in the ROC (Taiwan) \t \r\nCertificate of good conduct \t \r\nPlan for seeking employment \t \r\nOther supporting documents (if requested)",
+        "category": [
+            3
+        ],
+        "eligibilities": [
+            113
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 12,
+    "fields": {
+        "name": "Medical Treatment Visitor Visa",
+        "description": "Visitor Visa for Medical Treatment Purpose",
+        "duration": 180,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-261-d40a8-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Evidence of documents \tdiagnosis, proposal of treatment from Taiwan Medical institutions, letter for visa application\r\nEvidence of  funds \tBank statement or payment plan consented by Taiwan Medical institutions\r\nReturn Ticket \tTicket, electronic ticket or proof of a travel agency",
+        "category": [
+            1,
+            6
+        ],
+        "eligibilities": [
+            114
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 13,
+    "fields": {
+        "name": "Studying Chinese (Visitor Visa)",
+        "description": "Visitor Visa for Studying Chinese Purpose",
+        "duration": 180,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-260-9690c-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": true,
+        "requirements": "Foreigners who come to Taiwan to study Chinese must submit the documents and pay the visa fee at the nearest ROC embassy, consulate or representative agency to apply for a visitor visa.\r\n\r\n\r\nA certificate of admission issued  by the Chinese language center affiliated to one of the universities or institutions accredited by the Ministry of Education. (original & photocopy) \t\r\n\r\n    For information on the schools, please visit http://depart.moe.edu.tw/ED2500/News.aspx?n=B9C5E550F0D6C668&sms=141E0BD754235129 for the updated list.\r\n    Those who have obtained a certificate of admission from Chientan Overseas Youth Language Center must also submit a recommendation provided by Overseas Community Affairs Council.\r\n    Monday ~ Friday\uff08class hours are over 15 hours per week\uff09\r\n\r\nPlan for studying Chinese (original & photocopy) \tDescribe the motive and plan for studying Chinese\r\nProof of financial support (original & photocopy) \te. g. proof of banking account balance or foreign remittance\r\nOther additional documents may be required during processing \tTicket, electronic ticket or proof of a travel agency",
+        "category": [
+            1,
+            2
+        ],
+        "eligibilities": [
+            115
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 14,
+    "fields": {
+        "name": "Attending Conference / Exhibition (Visitor Visa)",
+        "description": "Visitor Visa for Attending Conference / Exhibition",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-259-e6930-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a  white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nEvidence of documents \tInvitation Letter or proof of exhibition & applicant's ID\r\nOther additional documents may be required during processing \tTicket, electronic ticket or proof of a travel agency",
+        "category": [
+            1,
+            3
+        ],
+        "eligibilities": [
+            116
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 15,
+    "fields": {
+        "name": "Internship (Visitor Visa)",
+        "description": "Visitor Visa for Internship Purpose",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-258-a62d4-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a  white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nApproval letter issued by government agency \te.g. Permit issued by Ministry of the Interior; Ministry of Economic Affairs; Ministry of Health and Welfare\r\nOther additional documents may be required during processing \tTicket\u3001electronic ticket or proof of a travel agency\r\nProcedures\uff1a\r\n\r\n    Applicants can lodge their applications with the necessary documents and statutory fee at our overseas missions.\r\n    Interview may be required when necessary.",
+        "category": [
+            1,
+            2
+        ],
+        "eligibilities": [
+            117
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 16,
+    "fields": {
+        "name": "Attending Training Courses (Visitor Visa)",
+        "description": "Visitor Visa for Attending Training Courses",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-257-6bc56-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a  white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nApproval letter issued by government agency \te.g. Permit issued by Ministry of Economic Affairs\ufe51Ministry of Health and Welfare\u3001Sports Administration, Ministry of Education\r\nOther additional documents may be required during processing \tTicket\u3001electronic ticket or proof of a travel agency\r\nProcedures\uff1a\r\n\r\n    Applicants can lodge their applications with the necessary documents and statutory fee at our overseas missions.\r\n    Interview may be required when necessary.",
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "eligibilities": [
+            118
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 17,
+    "fields": {
+        "name": "Entertainment Performance (Visitor Visa)",
+        "description": "Visitor Visa for Entertaining Performance Purpose",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-256-230ed-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a  white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nApproval Letter issued by Ministry of Labor \tOrganizers/Sponsors or employers must apply for the work permit from Ministry of Labor, Taiwan\r\nOther additional documents may be required during processing \tTicket, electronic ticket or proof of a travel agency\r\nProcedures\uff1a\r\n\r\n    Applicants can lodge their applications with the necessary documents and statutory fee at our overseas missions.\r\n    Interview may be required when necessary.",
+        "category": [
+            3
+        ],
+        "eligibilities": [
+            119
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 18,
+    "fields": {
+        "name": "Employment (Visitor Visa)",
+        "description": "Visitor Visa for Employment Purpose",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-255-0b6b7-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Requirements \tDescription\r\nCompleted & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a  white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nApproval Letter issued by Ministry of Labor,Taiwan \tEmployers must apply for the work permit from Ministry of Labor, Taiwan\r\nOther additional documents may be required during processing \tTicket, electronic ticket or proof of a travel agency\r\nProcedures\uff1a\r\n\r\n    Applicants can lodge their applications with the necessary documents and statutory fee at our overseas missions.\r\n    Interview may be required when necessary.",
+        "category": [
+            1,
+            3
+        ],
+        "eligibilities": [
+            120
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 19,
+    "fields": {
+        "name": "Business (Visitor Visa)",
+        "description": "Visitor visa for Business Purpose",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-254-3dbda-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a  white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nEvidence of business activities \t\r\n\r\n    Company's employed & job assigned letter\r\n    Invitation Letter\r\n    Ongoing letters, trading records (e.g.  LC, remittance receipt...etc.)\r\n\r\nDetails of the contact person in Taiwan \tname, address, telephone number...etc.\r\nOther additional documents may be required during processing \tTicket, electronic ticket or proof of a travel agency\r\nRequired documents from the guarantor of visa applicants from designated countries wishing to conduct commercial business in Taiwan \t\r\n\r\n    \u201cLetter of Guarantee for Visa Application to the Republic of China\u201d, the letter of guarantee would require an official stamp from the company of the guarantor; if the guarantor is not the owner/representative of said company, then a letter of authorization is required for the person submitting the \u201cletter of guarantee\u201d.\r\n    Letter of explanation (Explanation of how the guarantee and the guarantor met, as well as any proof of communication and the guarantee\u2019s itinerary while in the R.O.C).\r\n    A copy of the guarantee's passport.\r\n    Proof of commercial business exchange (Invoice(s), import/export documents, shipping orders\u2026etc).\r\n    Business registration of the company in the R.O.C, or the amendment of business registration document from the Ministry of Economic Affairs.\r\n    Notice of Audit is to be submitted along with the letter of guarantee.\r\n    Other relevant documents may be required during processing.( Proof of employment from the guarantee).\r\n    Telegram cable fee of NT$50.",
+        "category": [
+            1,
+            3
+        ],
+        "eligibilities": [
+            121
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 20,
+    "fields": {
+        "name": "Visitor Visa",
+        "description": "Visitor Visa for Visiting Purpose",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-253-46961-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a  white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nInvitation Letter \tProvided by inviting organization\r\nEvidence of  funds \te.g. Bank statement\r\nTravel Itinerary \t \r\nOther additional documents may be required during processing \tTicket, electronic ticket or proof of a travel agency",
+        "category": [
+            1
+        ],
+        "eligibilities": [
+            122
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 21,
+    "fields": {
+        "name": "Visiting Relatives (Visitor Visa)",
+        "description": "Visitor Visa for Visiting Relatives",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-251-e78ef-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nProof of relative's residence in Taiwan \tHousehold Registration within 3 months(personal date inside should be printed out) \u3001Alien Residence Certificate or Permanent Residence Certificate ( spouse & within 3-generation only )\r\nProof documents for relationship \tBirth Certificate or Household Registration \u2026etc, relevant identified documents\r\nOther additional documents may be required during processing \tTicket\u3001electronic ticket \u3001proof of a travel agency\u3001proof of current profession or other documents required for individual cases\r\n\r\n Procedures\uff1a\r\n\r\n    Applicants can lodge their applications with the necessary documents and statutory fee at our overseas missions.\r\n    Interview may be required when necessary.",
+        "category": [
+            1,
+            5
+        ],
+        "eligibilities": [
+            123
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 22,
+    "fields": {
+        "name": "Tourism (Visitor Visa)",
+        "description": "Visitor Visa for Tourism Purpose",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-158-250-a5a40-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Completed & signed application form \tPlease access the website: https://visawebapp.boca.gov.tw/ to fill out application form online and print it out.\r\nTwo passport-size photos in color within 6 months \tPhotos with a white color background\r\nPassport (original & photocopy) \tValid for 6 months with blank pages\r\nEvidence of  funds \tBank statement\r\nTravel Itinerary \t \r\nReturn Ticket \tTicket\u3001electronic ticket or proof of a travel agency\r\nOther additional documents may be required during processing \t \r\n\r\n \r\nProcedures\uff1a\r\n\r\n    Applicants can lodge their applications with the necessary documents and statutory fee at our overseas missions.\r\n    Interview may be required when necessary.",
+        "category": [
+            1
+        ],
+        "eligibilities": [
+            124
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 23,
+    "fields": {
+        "name": "Entrepreneur (Resident Visa)",
+        "description": "Resident visas for Entrepreneur",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-166-277-41131-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nDocuments requested by the Investment Commission, Ministry of Economic Affairs \tApplicants should fill the requirements according to \u201c Examination Directions of Entrepreneur Visa Qualification for Foreign Nationals \u201d.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Foreign applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission. Hong kong and Macao applicants outside of the R.O.C. (Taiwan) are advised to submit their application to the Bureau of Hong Kong Affairs or Bureau of Macao Affairs, Mainland Affairs Council of R.O.C. (Taiwan).\r\n    Foreign applicants inside of the R.O.C. (Taiwan) may apply for a Entrepreneur Resident Visa within 45 days before the duration of stay expires. The applicants may, without leaving the R.O.C. (Taiwan), apply for the visa from the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices. Hong kong and Macao applicants inside of the R.O.C. (Taiwan) may submit their application to the National Immigration Agency of the Ministry of the Interior, R.O.C. (Taiwan).",
+        "category": [
+            3
+        ],
+        "eligibilities": [
+            125
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 24,
+    "fields": {
+        "name": "White Collar Worker (Resident Visa)",
+        "description": "Resident Visas for White Collar Workers",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-166-276-48430-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of work permit issued by competent authorities of central government of the R.O.C. (Taiwan) \t\r\n\r\n    Employers must apply for a work permit for the applicant from a competent authority.\r\n    Remaining period of employment indicated on the work permit must be more than 6 months at the time of Resident Visa application.\r\n\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission.\r\n    Applicants who enter the R.O.C. (Taiwan) on a non-extendable Visitor Visa for the purposes of employment, investment, business or tourism may apply for a Resident Visa 8 work days before the duration of stay expires.  The applicants may apply, without having to leave Taiwan, to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason.  Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs. In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n    Original documents are to be returned after review. \r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n    Those who currently stay in the R.O.C. (Taiwan) as blue collar workers may not apply for a Resident Visa for white collar workers.\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.\r\n    Applicants who enter the R.O.C. (Taiwan) without a visa and have obtained a work permit issued by competent authorities of the R.O.C. (Taiwan)  may apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices for an extendable Visitor Visa.  Subsequently and with the extendable Visitor Visa, the applicants must apply to the National Immigration Agency for an Alien Resident Certificate.",
+        "category": [
+            3
+        ],
+        "eligibilities": [
+            126
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 25,
+    "fields": {
+        "name": "Investment (Resident Visa)",
+        "description": "Resident Visas for Investment",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-278-9b20e-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-05",
+        "extendable": true,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of proof of investment issued by the Investment Commission, Ministry of Economic Affairs \tAccording to \"Regulations on the Operation of Foreign Investors or Representatives of Foreign Corporations Applying for Resident Visas,\" a minimum investment amount of 200,000.00 USD is required.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission.\r\n    Applicants who enter the R.O.C. (Taiwan) on a Visitor Visa with annotation\u300cA\u300d may apply for a Resident Visa 8 work days before the duration of stay expires.  The applicants may, without leaving the R.O.C. (Taiwan), apply for the visa from  the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason.  Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs. In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n    Original documents are to be returned after review. \r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who currently stay in the R.O.C. (Taiwan) as blue collar workers may not apply for a Resident Visa on the ground of investment.\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.",
+        "category": [
+            4
+        ],
+        "eligibilities": [
+            127
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 26,
+    "fields": {
+        "name": "Internship (Resident Visa)",
+        "description": "Residents Visas for Internship Purpose",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-279-efd16-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport (original and photocopy) \t\r\n\r\n    Valid for no less than 6 months with blank pages.\r\n    A photocopy of basic-data page of passport including photo. In the case of application for the territory of the ROC, the photocopies of visa and entry stamp are necessary.\r\n\r\nOther additional  documents may be required during processing(the original will be returned after reviewed). \te.g. Permit issued by the comptent authority. The period of intership indicated on the permit must be more than 6 months.\r\nOriginal and photocopy of approved health certificate \t\r\n\r\n    Issued within the past 3 months by a hospital designated by Ministry of Health and Welfare's Center for Disease Control for foreigners. Health certificate issued by a qualified foreign hospital must be attached with Chinese or English version and authenticated by an ROC overseas mission.\r\n    For hospitals that perform medical examination and the items concerned, please visit the website of the above-mentioned Department.\r\n\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    The applicant who is out of territory of the ROC, shall apply for a visa directly at an ROC overseas mission.\r\n    Interview may be required when necessary.\r\n\r\n \r\nNotice\r\n\r\n    Subject to the \u201cStatute Governing Issuance of the ROC Visas in Foreign Passport\u201d and \u201cVisa Statute Enforcement Rules\u201d, the Rules for the Issuance of the ROC Visas to Foreign-Passport Holders\u201d, the ROC, as a sovereign nation, has the right to disapprove of a visa and reserve the right to withhold disclosure of the reasons for disapproval of the visa, and to withhold the fees deemed non-refundable.\r\n    Original documents are to be returned after review.\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n    Those who enter the ROC with landing visas or visa\u2013exempt program and blue collar workers may not apply for a Resident Visa.\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.",
+        "category": [
+            2,
+            3
+        ],
+        "eligibilities": [
+            128
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 27,
+    "fields": {
+        "name": "Foreign Spouse of Taiwanese Citizen with Household Registration (Resident Visa)",
+        "description": "Resident Visas for Foreign Spouses of R.O.C.(Taiwan) Citizens Having Household Registration",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-166-280-9f808-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOriginal and one photocopy of proof of no criminal record issued by competent authorities of the applicant\u2019s country \t\r\n\r\n    Documents in languages other than English must be accompanied by a Chinese- or English-translation version. Both the original-language documents and the accompanying Chinese- or English-translation version must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Documents should be issued within 1 year prior to the time of Resident Visa application.  If an expiration date is noted on the document, Resident Visa application must be submitted before the document expires.\r\n\r\nOriginal and one photocopy of marriage registration issued by competent authorities of the  applicant\u2019s country. \t\r\n\r\n    For countries which do not have marriage registration, original and one photocopy of the certificate of marriage are required.\r\n    Documents in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.  The original-language documents and the accompanying Chinese- or English-translation version must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n\r\nOriginal R.O.C. (Taiwan) Household Registration certificate issued within 3 months \tThe Household Registration Certificate must show marriage registration, the foreign spouse\u2019s name in his/her country\u2019s native language and his/her nationality.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission.\r\n    Applicants who enter the R.O.C. (Taiwan) on a Visitor Visa with annotation \u300cTS\u300d may apply for a Resident Visa 8 work days before the duration of stay expires.  Applicants may, without having to leave Taiwan, apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason.  Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs.  In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.  For cases that require further verification, length of the processing of Resident Visa shall depend on the verification.\r\n    Original documents are to be returned after review.  Documents produced outside of the R.O.C. (Taiwan) and in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.  The original-language   documents and the accompanying Chinese- or English-translation version must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who currently stay in the R.O.C. (Taiwan) as blue-collar workers may not apply for a Resident Visa on the ground of joining R.O.C. (Taiwan) spouse.\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.",
+        "category": [
+            4,
+            5
+        ],
+        "eligibilities": [
+            129
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 28,
+    "fields": {
+        "name": "Joining Spouse other than Taiwanese with Household Registration (Resident Visa)",
+        "description": "Resident Visas for Foreign Spouses of R.O.C.(Taiwan) Citizens Without Household Registration, Foreigners, Hong Kong Residents, Macau Residents, or Mainland Chinese Citizens",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-281-b948e-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n    Applicants of the following categories are not required to present the health certificate:\r\n\r\n    minors under age 6;\r\n    both the visa applicant and the family member(s) currently investing or employed as white collar worker(s) in the R.O.C. (Taiwan), whom the applicant intends to join with, are from countries whose citizens are eligible for visa-waiver entry into the R.O.C. (Taiwan).\r\n\r\nOriginal and one photocopy of Certificate of Residence in the R.O.C., Alien Permanent  Residence Certificate, Alien Residence Certificate, or various kinds of residence permits issued by the National Immigration Agency \tThe Alien Residence Certificate and residence permits must be valid for more than 6 months.\r\nOriginal and one photocopy of proof of marriage \tDocuments in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version. The original language documents and the accompanying Chinese- or English-translation must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission.\r\n    Applicants who enter the R.O.C. (Taiwan) on a Visitor Visa must apply for a Resident Visa 8 work days before the duration of stay expires.  The applicants may, without leaving Taiwan, apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason.  Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of  Consular Affairs.  In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n    Original documents are to be returned after review.  Documents produced outside of the R.O.C. (Taiwan) and in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.  The original-language  documents and the accompanying Chinese- or English-translation version must be authenticated by an ROC (Taiwan) overseas mission.\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who currently stay in the R.O.C. (Taiwan) as blue-collar workers may not apply for a Resident Visa on the ground of joining spouse.\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.",
+        "category": [
+            4,
+            5
+        ],
+        "eligibilities": [
+            130
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 29,
+    "fields": {
+        "name": "Minors joining Parents or Grand Parents (Resident Visa)",
+        "description": "Residents Visas for Minors Under Age 20 Joining Parents or Grand Parents",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-282-16c41-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  The application form must be signed by the applicant, either one of the applicant\u2019s parents, or legal guardian.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n    Applicants of the following categories are not required to present the health certificate:\r\n\r\n    minors under age 6;\r\n    both the visa applicant and the family member(s) currently investing or employed as white collar worker(s) in the R.O.C. (Taiwan), whom the applicant intends to join with, are from countries whose citizens are eligible for visa-waiver entry into the R.O.C. (Taiwan).\r\n\r\nOriginal and one photocopy of Certificate of  Residence in R.O.C. Alien Permanent Residence Certificate, Alien Residence   Certificate, or various kinds of residence permits issued by the National Immigration Agency \t\r\n\r\n    One copy of the Household Registration Certificate issued within 3 months is required if the individual, whom the applicant intends to join, is an R.O.C. (Taiwan) citizen with household registration.\r\n    Original and one photocopy of Certificate of Residence in the R.O.C. (Taiwan), Alien Permanent Residence Certificate, Alien Residence Certificate, or other kinds of residence permits issued by the National Immigration Agency are required if the individual, whom the applicant intends to join with, is an R.O.C. (Taiwan) citizen without household registration, a foreigner having obtained APRC or ARC, a Hong Kong or Macau resident, or a Mainland Chinese citizen.  The documents must be valid for more than 6 months.\r\n\r\nOriginal and one photocopy of proof of parents\u2019 marriage \t\r\n\r\n    For applicants who are under age 20 and are the children or grandchildren of an R.O.C. (Taiwan) citizen with household registration, and the applicant\u2019s parents must currently have household registration in the R.O.C. (Taiwan), one original Household Registration Certificate issued within 3 months that shows registration of the parents\u2019 marriage is required.\r\n    For applicants who are under age 20 and are the children of an R.O.C. (Taiwan) citizen without household registration, a foreigner having obtained APRC or ARC or other kinds of residence permits, a Hong Kong or Macau resident, or a Mainland Chinese citizen, proof of parent\u2019s marriage is required.\r\n\r\nOriginal and one photocopy of   birth certificate \tThe birth certificate must show both parents\u2019 full names.\r\nOther supporting documents \t\r\n\r\n    Applicants with dual citizenship and household registration in the R.O.C. (Taiwan) must annul the household registration and enter the R.O.C. (Taiwan) with a foreign passport.\r\n    Applicants whose parents have divorced may only join the parent that has custody of the applicants.  Proof of custody is required.\r\n    Applicants born outside of the R.O.C. (Taiwan) and whose parents are R.O.C. (Taiwan) citizens having household registration must present the original and one photocopy of both parents\u2019 R.O.C. (Taiwan) passports.\r\n    Applicants who apply to join paternal or maternal grandparents who are R.O.C. (Taiwan) citizens having household registration must present a letter of authorization signed by the applicant\u2019s father, mother or legal guardian.\r\n    Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission.\r\n    Applicants who enter the R.O.C. (Taiwan) on a Visitor Visa may apply for a Resident Visa 8 work days before the duration of stay expires.  The applicants may, without leaving Taiwan, apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason. Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs. In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n    Original documents are to be returned after review.  Documents produced outside of the R.O.C. (Taiwan) and in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.  The original-language documents and the accompanying Chinese- or English-translation version must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who currently stay in the R.O.C. (Taiwan) as blue-collar workers may not apply for a Resident Visa on the ground of joining parents.\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.",
+        "category": [
+            4,
+            5
+        ],
+        "eligibilities": [
+            131
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 30,
+    "fields": {
+        "name": "Overseas Chinese Students (Resident Visa)",
+        "description": "Resident Visas for Overseas Chinese Students",
+        "duration": 90,
+        "entries": "1",
+        "link": "https://www.boca.gov.tw/cp-166-288-b3876-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Overseas chinese students who, while still remaining outside of the R.O.C. (Taiwan), are jointly assigned to universities/colleges, vocational schools or high schools and below by the ministry of education of the university entrance committee for overseas chinese students.\r\nApplication form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of  Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOriginal and one photocopy of notice of assignment \t\r\n\r\n    Applicants must be determined by the Overseas Community Affairs Council as qualified overseas Chinese students, and are assigned to local schools by the Ministry of Education or the University Entrance Committee for Overseas Chinese Students in accordance with the \u201cRegulations Regarding Study and Counseling Assistance for Overseas Chinese Students in Taiwan.\u201d\r\n    The notice of assignment must be issued by the Ministry of Education or the University Entrance Committee for Overseas Chinese Students.\r\n    Applicants who already study in the R.O.C. (Taiwan) and wish to apply for a Resident Visa must also present the record of enrollment and registration as well as transcripts.  Applicants who previously suspended their study and wish to resume study must present proof of both suspension and resumption of study.\r\n\r\nOriginal and one photocopy of highest education diploma and transcripts\r\n\tForeign diplomas and transcripts must be authenticated by an R.O.C. (Taiwan) overseas mission or an agency designated by the Overseas Community Affairs Council.  For diplomas and transcripts in languages other than Chinese or English, a Chinese- or English-translation version is also required.  The original-language diploma, transcripts, and accompanying Chinese- or English-translation must be authenticated by an R.O.C. (Taiwan) overseas mission or an agency designated by the Overseas Community Affairs Council.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C.(Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\nOVERSEAS CHINESE STUDENTS WHO, AFTER HAVING ARRIVED IN THE R.O.C. (TAIWAN), ARE INDIVIDUALLY ASSIGNED TO HIGH SCHOOLS AND BELOW BY THE MINISTRY OF EDUCATION OR COUNTY/CITY BUREAU OF EDUCATION\r\nApplication form \t\r\n\r\nGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \t\r\n\r\nPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \t\r\n\r\nThe passport must be valid for at least 6 months and there are blank pages left in it.  Photocopies of the passport bio-page including the holder\u2019s picture, current visa page and immigration entry stamp are required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of Ministry of Health and Welfare of the R.O.C. (Taiwan).  Health Certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOriginal and one photocopy of letter of approval and notice of assignment \t\r\n\r\n    Follow the \u201cRegulations Regarding Study and Counseling Assistance for Overseas Chinese Students in Taiwan.\u201d\r\n    Applicant qualification: Applicants who already stay in the R.O.C. (Taiwan) on an Alien Residence Certificate or enter the R.O.C. (Taiwan) on an extendable 60-day Visitor Visa for purposes other than pursuing studies, and are determined by the  Overseas Community Affairs Council as qualified overseas Chinese students and have been assigned to local high schools or vocational schools and below by the Ministry of Education or county/city Bureau of Education.\r\n    The letter of approval issued by the Overseas Community Affairs Council and the notice of assignment issued by the Ministry of Education or county/city Bureau of Education.\r\n    Applicants who already study in the R.O.C. (Taiwan) and wish to apply for a Resident Visa must also present the record of enrollment and registration as well as transcripts.  Applicants who previously suspended their study and wish to resume study must present proof of both suspension and resumption of study.\r\n\r\nOriginal and one photocopy of record of enrollment and registration \tThe record of enrollment and registration or student ID issued by the school the pplicant is studying at.  The back of student ID must show a school registration stamp.\r\nOriginal and one photocopy of highest education diploma and transcripts \tForeign diplomas and transcripts must be authenticated by an R.O.C. (Taiwan) overseas mission or an agency designated by the Overseas Community  Affairs Council. For diplomas and transcripts in languages other than Chinese or English, a Chinese- or English-translation version is also required.  The original-language diploma, transcripts, and accompanying Chinese- or English-translation must be  authenticated by an R.O.C. (Taiwan) overseas mission or an  agency designated by the Overseas Community  Affairs Council.\r\nOriginal and one photocopy of letter of consent and Household Registration Certificate of the applicant\u2019s guardian in the R.O.C. (Taiwan) \t\r\n\r\n    Applicant\u2019s guardian in Taiwan must produce a letter of consent indicating his/her willingness to assume the responsibility of overseeing the applicant\u2019s conduct.  The letter of consent must be notarized by a local district court of the R.O.C. (Taiwan).\r\n    The Household Registration Certificate must be issued within 3 months prior to the time of visa application.\r\n\r\nOther supporting documents \tSupporting documents such as proof of financial support, the purpose of visiting Taiwan, guarantee by references in Taiwan, parental consent or proof of no-criminal record may be required on a case-by-case basis.  Students who apply for a Resident Visa after having arrived in the R.O.C.(Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\nOVERSEAS CHINESE STUDENTS WHO APPLY DIRECTLY TO UNIVERSITITES/COLLEGES ON THEIR OWN\r\nApplication form \tGo to website: https://visawebapp.boca.gov.tw . Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required. For those who apply within Taiwan, a photocopy of current visa and immigration entry stamp is also required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of  Ministry of Health and Welfare of the R.O.C. (Taiwan).  Health Certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOriginal and one photocopy of admission permit \t\r\n\r\n    Follow the \u201cRegulations Regarding Study and Counseling  Assistance for Overseas Chinese Students in Taiwan.\u201d\r\n    Applicants may only apply to universities/colleges that are approved by the Ministry of Education to admit overseas Chinese students independently.\r\n    Applicant qualification: Overseas Chinese applicants are required to submit application documents directly to the qualified universities/colleges.  Application documents will be forwarded by the schools to the Overseas  Community Affairs Council.  The Council will reply to the applicants after confirming the applicants\u2019 qualification.\r\n    The admission permit must be issued by the admitting school.\r\n    Students who already study in the R.O.C. (Taiwan) and wish to apply for a Resident Visa must also present the record of enrollment and registration as well as transcripts.  Students who previously suspended their study and wish to resume study must present proof of both suspension and resumption of study.\r\n\r\nOriginal and one photocopy of letter of approval \tA letter of approval issued by the Overseas Community  Affairs Council confirming the applicant\u2019s qualification as an overseas Chinese student.\r\nOriginal and one photocopy of  highest education diploma and transcripts \tForeign diplomas and transcripts must be authenticated by an R.O.C. (Taiwan) overseas mission or an agency designated by the Overseas Community  Affairs Council.  For diplomas and transcripts in languages other than Chinese or English, a Chinese- or English-translation version is also required. The original-language diploma, transcripts, and accompanying Chinese- or English-translation must be authenticated by an R.O.C. (Taiwan) overseas mission or an agency designated by the Overseas Community  Affairs Council.\r\nOther supporting documents \tSupporting documents such as proof of financial support, the purpose of visiting Taiwan, guarantee by references in Taiwan, parental consent or proof of no-criminal record may be required on a case-by-case basis.  Students who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.",
+        "category": [
+            2
+        ],
+        "eligibilities": [
+            132,
+            133,
+            134,
+            135
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 31,
+    "fields": {
+        "name": "Studying Religious Doctrine (Resident Visa)",
+        "description": "Residents Visas for Studying Religious Doctrine",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-287-1eaf7-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of  Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOne photocopy of the certificate of approval issued by competent authorities \t\r\n\r\nThe religious organization or its affiliated religious doctrine study institute which invites the applicant should, following the instruction of the \u201cEssential Notices Regarding Religious Group Applying Visa for Foreign National to Study Religious Doctrine in Taiwan,\u201d apply to the competent authority that handles the registration of the inviting organization or institute for the certificate of approval.  Depending on where the registration is made, the competent authority can be the Ministry of the Interior, SpecialMunicipalities or city/county governments.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C.(Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\nApplicants should apply to an R.O.C. (Taiwan) overseas mission located in the applicant\u2019s country, place of permanent residence, or the R.O.C. (Taiwan) overseas mission with consular jurisdiction over the applicant\u2019s country or place of permanent residence.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason. Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs. In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n\r\n    Original documents are to be returned after review. Documents produced outside of the R.O.C. (Taiwan) must be authenticated by an R.O.C. (Taiwan) overseas mission.  Documents that are in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.  The original-language documents and the ompanying Chinese- or English-translation version must be authenticated by an R.O.C. (Taiwan) overseas mission.  Application forms may be downloaded from the website of the Bureau of Consular Affairs or are available at the Bureau, its branch offices in Taiwan, or R.O.C. (Taiwan) overseas mission\r\n\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file). For applicants who enter the R.O.C. (Taiwan) on a Visitor Visa and apply for a Resident Visa, an additional fee of 800 NTD (24 USD) will apply.\r\n\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who enter the R.O.C. (Taiwan) on a Visitor Visa not for the purpose of studying religious doctrine may not apply for a Resident Visa or an extension of duration of stay on the ground of studying religious doctrine.  Those who stay in the R.O.C. (Taiwan) on a Resident Visa not for the purpose of studying religious doctrine and wish to convert to a Resident Visa for the purpose of studying religious doctrine are required to leave Taiwan and apply to an R.O.C. (Taiwan) overseas mission.\r\n\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.",
+        "category": [
+            2,
+            6
+        ],
+        "eligibilities": [
+            136
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 32,
+    "fields": {
+        "name": "Religious Work (Resident Visa)",
+        "description": "Residents Visas for Religious Work",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-286-0ce3e-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of  Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOne photocopy of the certificate of registration of the   inviting religious organization or corporation \t\r\n\r\nReligious organizations refer to temples, churches or institutes which are legally registered in the R.O.C. (Taiwan).\r\nOriginal and one photocopy of highest education diploma and transcripts \tFor diplomas and  transcripts in languages other than Chinese or English, a Chinese- or English-translation version is also required.\r\nOriginal and one photocopy of letter of invitation \t\r\n\r\nThe letter of invitation should be issued by the inviting religious organization, with person-in-charge\u2019s signature and the organization\u2019s seal, and contain the following:\r\n\r\n    proof that the inviting organization is a legally registered, non-profit and properly operational entity;\r\n    the reason for inviting the visa applicant;\r\n    the visa applicant\u2019s name, nationality, date of birth, religion, intended period of stay as well as religious activities and activity dates in the R.O.C. (Taiwan);\r\n    the list of foreign religious personnel who are invited by the same religious organization and still stay in the R.O.C. (Taiwan) as well as the types of visas they hold;\r\n    Affidavit pertaining to the content of the letter of invitation.\r\n\r\nOriginal and one photocopy of the applicant\u2019s certificate in religious work \t\r\n\r\n    Applicants must posses an official capacity as religious personnel such as Pastor, Father, Brother, Sister, Monk, Nun, Imam, etc.  In the event that according to a religion\u2019s administrative practice, no certificate is issued to its personnel, proof provided by the highest administration where the applicant serves or by the organization to which the applicant belongs is required.\r\n    The certificate should contain the applicant\u2019s name, nationality, religion, date of induction, and attests to the applicant\u2019s capacity as a religious worker at the time of visa application.\r\n    Buddhism Monks and Nuns are required to present also the original and one photocopy of the certificate of vow.\r\n\r\nOriginal and one photocopy of the applicant\u2019s credentials \t\r\n\r\nThe credentials should be issued by the religious organization to which the applicant belongs, signed by the person-in-charge, and contain the following:\r\n\r\n    the applicant\u2019s name, nationality and religion.\r\n    the chronicle of more than 2 years of religious work prior to the time of visa application.\r\n\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan): Apply to an R.O.C. (Taiwan) overseas mission located in the applicant\u2019s country, place of permanent residence, or the R.O.C. (Taiwan) overseas mission with consular jurisdiction over the applicant\u2019s country or place of permanent residence.  The religious organization in the R.O.C. (Taiwan) that invites the applicant should submit to the Bureau of Consular Affairs or mail to the Visa Division of the Bureau the following: Visa Application Number provided by the R.O.C. (Taiwan) overseas mission, other required documents, and Notification of Review to the Letter of Guarantee for Visa Application to the R.O.C.  If deemed necessary, a Letter of Guarantee for Visa Application to the R.O.C. will be required.\r\n    Applicants who have already entered the R.O.C. (Taiwan) on a Visitor Visa: The religious organization in the R.O.C. (Taiwan) that invites the applicant may, on behalf of the applicant, apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices no later than 2 weeks before the duration of stay expires.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason.  Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 14 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 14 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 14 days after the applicant is informed by the Bureau of Consular Affairs.  In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n    Original documents are to be returned after review.  Documents produced outside of the R.O.C. (Taiwan) must be authenticated by an R.O.C. (Taiwan) overseas mission.  Documents that are in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.  The original-language documents and the accompanying Chinese- or English-translation version must be authenticated by an R.O.C. (Taiwan) overseas mission.  Application forms may be downloaded from the website of the Bureau of Consular Affairs or are available at the Bureau, its branch offices in Taiwan, or R.O.C. (Taiwan) overseas missions.\r\n\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).For applicants who enter the R.O.C. (Taiwan) on a Visitor Visa and apply for a Resident Visa, an additional fee of 800 NTD (24 USD) will apply.\r\n\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who enter the R.O.C. (Taiwan) on a Visitor Visa not for the purpose of doing religious work may not apply for a Resident Visa or an extension of duration of stay on the ground of religious work.\r\n\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.",
+        "category": [
+            3,
+            6
+        ],
+        "eligibilities": [
+            137
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 33,
+    "fields": {
+        "name": "Studying Mandarin Chinese (Resident Visa)",
+        "description": "Residents Visas for Studying Mandarin Chinese",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-285-041cb-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.twFill out the application form online and print it out. Make sure the application form shows a bar code on it.Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it. One photocopy of the passport bio-page including the holders picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months  by one of the local hospitals designated by the Centers for Disease Control of Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital. Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOriginal and one photocopy of certificate of enrollment with record of registration \t\r\n\r\n    The certificate of enrollment and record of registration should be issued by one of the Mandarin Chinese Learning Centers affiliated to universities accredited by the Ministry of Education.\r\n    Check the website of the Ministry of Education for the list of the Mandarin Chinese Learning Centers.\r\n    The certificate of enrollment must indicate completion of 4 months of study and registration for continued study for at least another 3 months.\r\n    Weekly hours of attendance, Monday to Friday, must not be fewer than 15 hours.\r\n\r\nOriginal and one photocopy of record of attendance \tHours of absence including those taken on a leave must not exceed a quarter of total class hours.\r\nOriginal and one photocopy of transcripts \tThe school transcripts from the period of study.\r\nStudy plan \tStudy motives should be included.\r\nOriginal and one photocopy of proof of financial support \tBank statements or records of remittance, etc.\r\nOther supporting documents \tTo be decided on a case-by-case basis. Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\nApplicants who have entered the R.O.C. (Taiwan) on a Visitor Visa with an annotation indicating studying Chinese as the purpose of visit, have completed 4 months of study, have registered for continued study for at least another 3 months, and have not been absent from class for over a quarter of total class hours, may apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices for a Resident Visa, without having to leave Taiwan, no later than 8 work days before the duration of stay expires.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason. Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs. In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n\r\n    Original documents are to be returned after review.  Documents produced outside of the R.O.C. (Taiwan) must be authenticated by an R.O.C. (Taiwan) overseas mission.  Documents that are in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.  The original-language documents and the accompanying Chinese- or English-translation version must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who enter the R.O.C. (Taiwan) on a Visitor Visa not for the purpose of studying Chinese may not apply for a Resident Visa or an extension of duration of stay on the ground of studying Chinese.\r\n\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.\r\n\r\n    Obtaining a school admission permit does not guarantee the issuance of a Resident Visa.  Obtaining a Resident Visa does not entitle the visa holder to enter the R.O.C.(Taiwan).",
+        "category": [
+            2
+        ],
+        "eligibilities": [
+            138
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 34,
+    "fields": {
+        "name": "Foreign Students(Exchange students) (Resident Visa)",
+        "description": "Residents Visas for Foreign Students(Exchange students)",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-284-6f5f7-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of  Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOriginal and one photocopy of letter of approval issued by university /college or competent authorities of education \t\r\n\r\n    During their stay, exchange students are required to follow the instructions of the \u201cRegulations Regarding International Students Undertaking Studies in Taiwan.\u201d\r\n    For university/college exchange students, a letter of  approval issued by the university/college they intend to enroll in is required.\r\n    For senior high school students, a letter of approval issued by the Ministry of Education or city/county Bureau of Education is required.\r\n\r\nOriginal and one photocopy of admission permit or record of enrollment and registration \t\r\n\r\n    For university/college exchange students, an admission permit issued by the university/college they intend to enroll in is required.\r\n    Students already studying in the R.O.C. (Taiwan) on a Visitor Visa and wishing to apply for a Resident Visa are required to present the record of enrollment and registration.\r\n\r\nOriginal and one photocopy of the overseas school\u2019s record of enrollment \tThe record of enrollment or student ID issued by the overseas school which the student is originally from.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Students who apply for a Resident Visa after having arrived in the R.O.C.(Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan) who meet the requirements for students\u2019 Resident Visa are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission.\r\n    Applicants who enter the R.O.C. (Taiwan) on a Visitor Visa which qualifies the applicants for Resident Visa application for the purpose of undertaking studies must apply for a Resident Visa 8 work days before the duration of stay expires.  Applicants may apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason. Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs. In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n\r\n    Original documents are to be returned after review.  Documents produced outside of the R.O.C. (Taiwan) and in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.\r\n\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who enter the R.O.C. (Taiwan) on a Visitor Visa not for the purpose of undertaking studies may not apply for a Resident Visa or an extension of duration of stay on the ground of undertaking studies.  Those not enrolled as full-time students may not apply for a Resident Visa on the ground of undertaking studies.\r\n\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.\r\n\r\n    Obtaining a school admission permit does not guarantee the issuance of a Resident Visa.  Obtaining a Resident Visa does not entitle the visa holder to enter the R.O.C.(Taiwan).",
+        "category": [
+            2
+        ],
+        "eligibilities": [
+            139
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 35,
+    "fields": {
+        "name": "Foreign Students(Full-time) (Resident Visa)",
+        "description": "Residents Visas for Foreign Students(Full-time PhD, Master\u2019s, Bachelor\u2019s program, or senior high school Students and below)",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-166-283-c4da3-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nOriginal and one photocopy of health certificate \t\r\n\r\n    The health certificate should be issued within 3 months by one of the local hospitals designated by the Centers for Disease Control of  Ministry of Health and Welfare of the R.O.C. (Taiwan) or a foreign hospital.  Health certificates issued by foreign hospitals must be authenticated by an R.O.C. (Taiwan) overseas mission.\r\n    Visit the website of the Centers for Disease Control at https://www.cdc.gov.tw/En for health checkup items and the list of designated local hospitals.\r\n\r\nOriginal and one  photocopy of admission permit or record of enrollment, registration and  transcripts \t\r\n\r\n    For school applications and admission permits, follow the instructions of the \u201cRegulations Regarding International Students Undertaking Studies in Taiwan\u201d promulgated by the Ministry of Education.\r\n    The admission permit is required for Resident Visa application.\r\n    For high schools and below, only students from countries whose citizens are allowed to enter the R.O.C. (Taiwan) under visa-waiver program may enroll in high schools that are accredited to accept foreign students by the Ministry of Education.\r\n    Students already studying in the R.O.C. (Taiwan) on a Visitor Visa and wishing to apply for a Resident Visa are required to present the record of enrollment and registration as well as transcripts.\r\n\r\nOriginal and one photocopy of highest education diploma and transcripts \tFor diplomas and  transcripts in languages other than Chinese or English, a Chinese- or English-translation version is also required. (Must be authenticated by an R.O.C(Taiwan)overseas mission.)\r\nOriginal and one photocopy of proof of financial support \t \r\nOther supporting documents \tSupporting documents such as the purpose of visiting Taiwan, parental consent, letter of guarantee by references in Taiwan, consent from the guardians in Taiwan or proof of no-criminal record may be required on a case-by-case basis.  Students who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Applicants outside of the R.O.C. (Taiwan) who meet the requirements for students\u2019 Resident Visa are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission.\r\n    Applicants who enter the R.O.C. (Taiwan) on a Visitor Visa which qualifies the applicants for Resident Visa application for the purpose of undertaking studies must apply for a Resident Visa 8 work days before the duration of stay expires.  Applicants may apply to the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices.\r\n\r\n \r\nNotice\r\n\r\n    Visa issuance is an act of sovereignty.  According to the \u201cStatute Governing Issuance of R.O.C. Visas in Foreign Passport\u201d and \u201cEnforcement Rules for the Issuance of R.O.C. Visas to Foreign-Passport Holders,\u201d the R.O.C. reserves the right not to issue a visa and is under no obligation to disclose the reason. Application fee for no-issuance cases is non-refundable.\r\n    Processing of Resident Visa application inside the R.O.C. (Taiwan) takes 8 work days.  Resident Visa applicants are advised to apply to the Bureau of Consular Affairs 8 work days before the duration of stay expires.  Application will be turned down and fee not refunded in the event that required documents are not submitted in full within 7 days after the applicant is informed by the Bureau of Consular Affairs. In the event that the applicant\u2019s duration of stay expires while the Resident Visa is under processing and eventually rejected, the applicant is to assume the sole responsibility of overstay and the penalty therefore imposed.\r\n\r\n    Original documents are to be returned after review.  Documents produced outside of the R.O.C. (Taiwan) and in languages other than Chinese or English must be accompanied by a Chinese- or English-translation version.\r\n\r\n    For visa application fees, please refer to \u201cStandard Fees for R.O.C. (Taiwan) Visas in Foreign Passports\u201d(pdf file).\r\n\r\n    Those who enter the R.O.C. (Taiwan) without a visa or with a landing visa and those who enter the R.O.C. (Taiwan) on a Visitor Visa not for the purpose of undertaking studies may not apply for a Resident Visa or an extension of duration of stay on the ground of undertaking studies.  Those not enrolled as full-time students may not apply for a Resident Visa on the ground of undertaking studies.\r\n\r\n    Those who enter the R.O.C. (Taiwan) on a Resident Visa or get a Resident Visa after  having arrived in the R.O.C. (Taiwan) must apply for an Alien Resident Certificate and Re-entry Permit at local service centers of National Immigration Agency. The former must apply within 15 days from the next day of arrival, and the latter must apply within 15 days from the Resident Visa issuance date.  Duration of stay is noted on the Alien Resident Certificate.\r\n\r\n    Obtaining a school admission permit does not guarantee the issuance of a Resident Visa.  Obtaining a Resident Visa does not entitle the visa holder to enter the R.O.C.(Taiwan).",
+        "category": [
+            2
+        ],
+        "eligibilities": [
+            140
+        ]
     }
 }
 ]

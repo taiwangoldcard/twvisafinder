@@ -2462,6 +2462,108 @@
     }
 },
 {
+    "model": "visafinder.visaeligibility",
+    "pk": 143,
+    "fields": {
+        "eligiblevisa": 36,
+        "country": "KH",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 144,
+    "fields": {
+        "eligiblevisa": 36,
+        "country": "IN",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 145,
+    "fields": {
+        "eligiblevisa": 36,
+        "country": "ID",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 146,
+    "fields": {
+        "eligiblevisa": 36,
+        "country": "LA",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 147,
+    "fields": {
+        "eligiblevisa": 36,
+        "country": "MM",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
+    "model": "visafinder.visaeligibility",
+    "pk": 148,
+    "fields": {
+        "eligiblevisa": 36,
+        "country": "VN",
+        "all_countries": false,
+        "conditional": false,
+        "condition": "",
+        "min_age": null,
+        "max_age": null,
+        "link": null,
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06"
+    }
+},
+{
     "model": "visafinder.visa",
     "pk": 1,
     "fields": {
@@ -3286,6 +3388,33 @@
         ],
         "eligibilities": [
             140
+        ]
+    }
+},
+{
+    "model": "visafinder.visa",
+    "pk": 36,
+    "fields": {
+        "name": "Travel Authorization Certificate",
+        "description": "Travel Authorization Certificate",
+        "duration": 90,
+        "entries": "X",
+        "link": "https://www.boca.gov.tw/cp-152-274-8c0e2-2.html",
+        "start_date": null,
+        "end_date": null,
+        "update_date": "2019-09-06",
+        "extendable": false,
+        "requirements": "Basic requirements\r\nTo be eligible for an R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior, the following three basic requirements must be met:\r\n\r\n    The applicant's passport must have remaining validity of at least six months starting from the date of arrival in Taiwan.\r\n    The applicant must possess an onward/return air or ferry ticket.\r\n    The applicant has never been employed as a blue-collar worker in Taiwan.\r\n\r\n\r\nAdditional requirements \r\nIn addition to the aforementioned basic requirements, one of the following requirements must also be met:\r\n\r\n    The applicant possesses at least one of the following documents issued by Australia, Canada, Japan, Korea, New Zealand, any of EU and Schengen countries, the United Kingdom, or the United States:\r\n        Valid resident or permanent resident card\r\n        Valid entry visa (may be electronic visa)\r\n        Resident card or visa that has expired less than 10 years prior to the date of arrival in Taiwan\r\n\r\n    Applicants who use an electronic visa issued by Australia or New Zealand as the required document must present the valid Australia or New Zealand electronic visa as entering Taiwan.\r\n    Applicants who use a visa issued by Japan as the required document must present the proof record of entering Japan or a confirmed onward ticket to Japan when entering Taiwan.\r\n\r\n    The applicant possesses an entry visa or resident card issued by the ROC at any point in the past 10 years and has no record of immigration irregularities or law violations in Taiwan. However, holders of ROC entry visas bearing the remark FL (migrant worker), X (others), or P with \u201cSpecial permission from MOFA\u201d (visa and eVisa for \u201cProject for Simplifying Visa Regulations for High-end Group Tourists from Southeast Asian Countries (Project Kuan-Hong)\u201d ever issued), as well as holders of ROC resident cards with stated purpose of residence being foreign laborer (\u79fb\u5de5), are not eligible for an R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior.\r\n\r\n\r\nNotes\r\n\r\n    An approved R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior is valid for 90 days. Multiple entries within these 90 days are allowed. The holder of an R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior may stay in Taiwan for 14 days, starting from the day after arrival. If the holder wishes to apply for another R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior, he or she must do so seven days prior to the expiry of the current certificate.\r\n     If any mistake is made during the online application process, the applicant may submit a new application.\r\n    Online applications can only be made by persons holding valid regular passports. Persons holding temporary, emergency, or informal passports, or travel documents other than a passport, cannot submit online applications.\r\n     The visas in the aforementioned list of required documents do not include work permits.\r\n    Holders of aforementioned visas bearing such stamps as VOID, CANCELLED, or CANCELLED WITHOUT PREJUDICE are not eligible for an R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior.\r\n    With regard to resident cards or visas that have expired less than 10 years ago, this means that the time between the expiry date of the resident card or visa and the date of arrival in Taiwan may not be longer than 10 years. If no expiry date or validity period is given on the resident card or visa, the 10-year period refers to the time between the resident card or visa\u2019s issuing date and the date of arrival in Taiwan.\r\n    Applicants who hold permanent resident cards with no expiry date may enter 9999 for year, 12 for month and 31 for day in the Date field.\r\n    Once the application has been approved, the applicant should print out the R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior. The applicant must present the certificate and the required documents for inspection when entering Taiwan. Entry will be denied if the required documents are not produced.\r\n    Nationals of Indonesia who possess a valid Japan Visa Waiver Registration are eligible for an R.O.C. (Taiwan) Travel Authorization Certificate from the National Immigration Agency, Ministry of the Interior.\r\n    Please fill in an (online) Arrival Card for immigration inspection each time before reentry within the validity of this certificate.\r\n    https://acard.immigration.gov.tw/nia_acard",
+        "category": [
+            1
+        ],
+        "eligibilities": [
+            143,
+            144,
+            145,
+            146,
+            147,
+            148
         ]
     }
 }

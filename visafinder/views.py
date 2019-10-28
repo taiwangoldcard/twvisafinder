@@ -34,7 +34,7 @@ def category(request, visa_category):
     category = get_object_or_404(VisaCategory, name=visa_category)
 
     if request.method == 'POST':
-        form = VisaSearchForm(request.POST)
+        form = VisaSearchForm(request.POST, category=visa_category)
         if form.is_valid():
             visas = searchvisas(category, form.cleaned_data['country'])
             print visas
@@ -45,7 +45,7 @@ def category(request, visa_category):
                 'visas': visas,
                  })
     else:
-        form = VisaSearchForm()
+        form = VisaSearchForm(category=category.name)
         visas = category.visa_set.all()
         return render(request, 'category.html', context={
             'support_email': settings.SUPPORT_EMAIL,

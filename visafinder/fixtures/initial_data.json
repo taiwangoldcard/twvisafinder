@@ -2568,10 +2568,10 @@
     "pk": 1,
     "fields": {
         "name": "eVisa",
-        "description": "eVisa (Online Application)",
+        "description": "Apply online for a 30 day visit to Taiwan for tourism, business, visiting relatives or attending international conferences or sporting events.",
         "duration": 30,
         "entries": "1",
-        "link": "https://visawebapp.boca.gov.tw/BOCA_MRVWeb/subroot/MRV00FORM.action",
+        "link": "https://visawebapp.boca.gov.tw/BOCA_EVISA/",
         "start_date": null,
         "end_date": null,
         "update_date": "2019-08-14",
@@ -2622,7 +2622,7 @@
     "pk": 2,
     "fields": {
         "name": "Visa-Exempt Entry (90 days)",
-        "description": "Visa-Exempt Entry (90 days)",
+        "description": "For a short-term visit to Taiwan for tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions and engaging in fact-finding missions.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
@@ -2643,7 +2643,7 @@
     "pk": 3,
     "fields": {
         "name": "Visa-Exempt Entry (30 days)",
-        "description": "Visa-Exempt Entry (30 days)",
+        "description": "For a short-term visit to Taiwan for tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions and engaging in fact-finding missions.",
         "duration": 30,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
@@ -2664,7 +2664,7 @@
     "pk": 4,
     "fields": {
         "name": "Visa-Exempt Entry (21 days)",
-        "description": "Visa-Exempt Entry (21 days)",
+        "description": "For a short-term visit to Taiwan for tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions and engaging in fact-finding missions.",
         "duration": 21,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
@@ -2685,7 +2685,7 @@
     "pk": 5,
     "fields": {
         "name": "Visa-Exempt Entry (14 days)",
-        "description": "Visa-Exempt Entry (14 days)",
+        "description": "For a short-term visit to Taiwan for tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions and engaging in fact-finding missions.",
         "duration": 14,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
@@ -2727,7 +2727,7 @@
     "pk": 7,
     "fields": {
         "name": "Employment Gold Card",
-        "description": "Employment Gold Card",
+        "description": "A one-to-three year resident visa with combined open work permit for highly skilled foreign professionals.",
         "duration": 1095,
         "entries": "X",
         "link": "https://foreigntalentact.ndc.gov.tw/en/Content_List.aspx?n=24C15F2CEE245632",
@@ -2747,7 +2747,7 @@
     "pk": 8,
     "fields": {
         "name": "Working Holiday",
-        "description": "Working Holiday",
+        "description": "This visa lets people meeting the age requirements visit Taiwan for a holiday, and also supplement your funds with incidental employment.",
         "duration": 180,
         "entries": "X",
         "link": "https://www.boca.gov.tw/lp-153-2.html",
@@ -2780,8 +2780,8 @@
     "model": "visafinder.visa",
     "pk": 9,
     "fields": {
-        "name": "Youth Mobility",
-        "description": "Youth Mobility Scheme (YMS)",
+        "name": "Youth Mobility Scheme (YMS)",
+        "description": "This visa lets people meeting the age requirements visit Taiwan for a holiday, and also supplement your funds with incidental employment.",
         "duration": 180,
         "entries": "X",
         "link": "https://www.boca.gov.tw/lp-153-2.html",
@@ -2806,7 +2806,7 @@
     "pk": 10,
     "fields": {
         "name": "Foreign Exchange Students Visitor Visa",
-        "description": "Visitor Visas for Foreign Exchange Students for Stays of less than Six Months",
+        "description": "Allows a stay of less than six months for exchange students.",
         "duration": 180,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-4342-a78b4-2.html",
@@ -2828,7 +2828,7 @@
     "pk": 11,
     "fields": {
         "name": "Employment-Seeking Visitor Visa",
-        "description": "Visitor visa for Employment-Seeking Purpose",
+        "description": "Professionals who meet the requirements may visit Taiwan for up to six months to seek employment.",
         "duration": 180,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-4158-09d5a-2.html",
@@ -2850,7 +2850,7 @@
     "pk": 12,
     "fields": {
         "name": "Medical Treatment Visitor Visa",
-        "description": "Visitor Visa for Medical Treatment Purpose",
+        "description": "Allows entry to Taiwan for medical treatment",
         "duration": 180,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-261-d40a8-2.html",
@@ -2873,7 +2873,7 @@
     "pk": 13,
     "fields": {
         "name": "Studying Chinese (Visitor Visa)",
-        "description": "Visitor Visa for Studying Chinese Purpose",
+        "description": "This visa lets you visit Taiwan to join an accredited Chinese language program, with a requirement of more than 15 hours of classes per week.",
         "duration": 180,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-260-9690c-2.html",
@@ -2896,7 +2896,7 @@
     "pk": 14,
     "fields": {
         "name": "Attending Conference / Exhibition (Visitor Visa)",
-        "description": "Visitor Visa for Attending Conference / Exhibition",
+        "description": "This visa lets you visit Taiwan to attend a conference or exhibition.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-259-e6930-2.html",
@@ -2919,7 +2919,7 @@
     "pk": 15,
     "fields": {
         "name": "Internship (Visitor Visa)",
-        "description": "Visitor Visa for Internship Purpose",
+        "description": "Visit Taiwan to conduct an approved internship.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-258-a62d4-2.html",
@@ -2942,7 +2942,7 @@
     "pk": 16,
     "fields": {
         "name": "Attending Training Courses (Visitor Visa)",
-        "description": "Visitor Visa for Attending Training Courses",
+        "description": "Visit Taiwan to attend an approved training course.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-257-6bc56-2.html",
@@ -2966,7 +2966,7 @@
     "pk": 17,
     "fields": {
         "name": "Entertainment Performance (Visitor Visa)",
-        "description": "Visitor Visa for Entertaining Performance Purpose",
+        "description": "For professional performers who have obtained a work permit to perform in Taiwan.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-256-230ed-2.html",
@@ -2988,7 +2988,7 @@
     "pk": 18,
     "fields": {
         "name": "Employment (Visitor Visa)",
-        "description": "Visitor Visa for Employment Purpose",
+        "description": "For professionals who have obtained a work permit related to their job in Taiwan.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-255-0b6b7-2.html",
@@ -3011,7 +3011,7 @@
     "pk": 19,
     "fields": {
         "name": "Business (Visitor Visa)",
-        "description": "Visitor visa for Business Purpose",
+        "description": "For a short-term visit to Taiwan, where you have been invited by a Taiwanese company to conduct business activities.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-254-3dbda-2.html",
@@ -3034,7 +3034,7 @@
     "pk": 20,
     "fields": {
         "name": "Visitor Visa",
-        "description": "Visitor Visa for Visiting Purpose",
+        "description": "For a short-term visit to Taiwan for tourism.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-253-46961-2.html",
@@ -3056,7 +3056,7 @@
     "pk": 21,
     "fields": {
         "name": "Visiting Relatives (Visitor Visa)",
-        "description": "Visitor Visa for Visiting Relatives",
+        "description": "For a short-term visit to Taiwan to see relatives.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-251-e78ef-2.html",
@@ -3079,7 +3079,7 @@
     "pk": 22,
     "fields": {
         "name": "Tourism (Visitor Visa)",
-        "description": "Visitor Visa for Tourism Purpose",
+        "description": "For a short-term visit to Taiwan for tourism.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-158-250-a5a40-2.html",
@@ -3101,15 +3101,15 @@
     "pk": 23,
     "fields": {
         "name": "Entrepreneur (Resident Visa)",
-        "description": "Resident visas for Entrepreneur",
+        "description": "For those looking to start a business in Taiwan and have received VC investment, an incubator residence or gained awards or government grants.",
         "duration": 90,
         "entries": "1",
-        "link": "https://www.boca.gov.tw/cp-166-277-41131-2.html",
+        "link": "https://startup.sme.gov.tw/taiwan-entrepreneur-visa/",
         "start_date": null,
         "end_date": null,
         "update_date": "2019-09-05",
         "extendable": false,
-        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nDocuments requested by the Investment Commission, Ministry of Economic Affairs \tApplicants should fill the requirements according to \u201c Examination Directions of Entrepreneur Visa Qualification for Foreign Nationals \u201d.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n\r\n    Foreign applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission. Hong kong and Macao applicants outside of the R.O.C. (Taiwan) are advised to submit their application to the Bureau of Hong Kong Affairs or Bureau of Macao Affairs, Mainland Affairs Council of R.O.C. (Taiwan).\r\n    Foreign applicants inside of the R.O.C. (Taiwan) may apply for a Entrepreneur Resident Visa within 45 days before the duration of stay expires. The applicants may, without leaving the R.O.C. (Taiwan), apply for the visa from the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices. Hong kong and Macao applicants inside of the R.O.C. (Taiwan) may submit their application to the National Immigration Agency of the Ministry of the Interior, R.O.C. (Taiwan).",
+        "requirements": "Application form \tGo to website: https://visawebapp.boca.gov.tw .  Fill out the application form online and print it out.  Make sure the application form shows a bar code on it.  Sign the application form.\r\nTwo color passport-size photos \tPaste on the application form two color passport-size photos with a white background taken within 6 months.\r\nPassport and one photocopy of the passport \tThe passport must be valid for at least 6 months and there are blank pages left in it.  One photocopy of the passport bio-page including the holder\u2019s picture is required.\r\nDocuments requested by the Investment Commission, Ministry of Economic Affairs \tApplicants should fill the requirements according to \u201c Examination Directions of Entrepreneur Visa Qualification for Foreign Nationals \u201d.\r\nOther supporting documents \tTo be decided on a case-by-case basis.  Applicants who apply for a Resident Visa after having arrived in the R.O.C. (Taiwan) are required to present also one photocopy of the Visitor Visa and the immigration entry stamp.\r\n\r\n \r\nApplication Procedure\r\n     \r\n\r\nEligibility\r\n(meet at least one of the criterias )\r\n\r\n     Received venture capital investment or international fundraising of more than NT$ 2 million.\r\n     Received approval to reside at a recognized innovation park or incubator in Taiwan.\r\n     Obtained patent rights or professional skills certificate.\r\n     Has been awarded in a leading startup or design competition, or has been involved in a foreigner entrepreneurship project in Taiwan.\r\n     Has been or is currently located in a startup accelerator recognized by the Taiwanese government.\r\n     The enterprise or the person in charge of the enterprise has been nominated or awarded in a film festival.\r\n     Received innovation subsidy of at least NT$ 3 million from the central government or at least NT$ 1 million from the local government.\r\n     Possesses other innovation capability specified or recommended by the Taiwanese government.\r\n     Has established enterprise with innovation capability in Taiwan and acts as its legal representative, manager or director with an investment of at least NT$ 1 million.\r\n\r\n    Foreign applicants outside of the R.O.C. (Taiwan) are advised to apply for the visa from an R.O.C. (Taiwan) overseas mission. Hong kong and Macao applicants outside of the R.O.C. (Taiwan) are advised to submit their application to the Bureau of Hong Kong Affairs or Bureau of Macao Affairs, Mainland Affairs Council of R.O.C. (Taiwan).\r\n    Foreign applicants inside of the R.O.C. (Taiwan) may apply for a Entrepreneur Resident Visa within 45 days before the duration of stay expires. The applicants may, without leaving the R.O.C. (Taiwan), apply for the visa from the Bureau of Consular Affairs or any of its Central, Southwestern, Southern, or Eastern Taiwan Offices. Hong kong and Macao applicants inside of the R.O.C. (Taiwan) may submit their application to the National Immigration Agency of the Ministry of the Interior, R.O.C. (Taiwan).",
         "category": [
             3
         ],
@@ -3123,7 +3123,7 @@
     "pk": 24,
     "fields": {
         "name": "White Collar Worker (Resident Visa)",
-        "description": "Resident Visas for White Collar Workers",
+        "description": "This visa is for professionals who have received a work permit from a Taiwanese company and plan to stay in Taiwan longer than 6 months.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-166-276-48430-2.html",
@@ -3145,7 +3145,7 @@
     "pk": 25,
     "fields": {
         "name": "Investment (Resident Visa)",
-        "description": "Resident Visas for Investment",
+        "description": "For those looking to live in Taiwan and plan to make an investment of more than 200,000 USD.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-278-9b20e-2.html",
@@ -3167,7 +3167,7 @@
     "pk": 26,
     "fields": {
         "name": "Internship (Resident Visa)",
-        "description": "Residents Visas for Internship Purpose",
+        "description": "Visit Taiwan to conduct an approved internship of longer than 6 months.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-279-efd16-2.html",
@@ -3190,7 +3190,7 @@
     "pk": 27,
     "fields": {
         "name": "Foreign Spouse of Taiwanese Citizen with Household Registration (Resident Visa)",
-        "description": "Resident Visas for Foreign Spouses of R.O.C.(Taiwan) Citizens Having Household Registration",
+        "description": "This visa is for foreign spouses of Taiwanese Citizens who reside permanently in Taiwan to join their spouse for longer than six months.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-166-280-9f808-2.html",
@@ -3213,7 +3213,7 @@
     "pk": 28,
     "fields": {
         "name": "Joining Spouse other than Taiwanese with Household Registration (Resident Visa)",
-        "description": "Resident Visas for Foreign Spouses of R.O.C.(Taiwan) Citizens Without Household Registration, Foreigners, Hong Kong Residents, Macau Residents, or Mainland Chinese Citizens",
+        "description": "A resident visas for Foreign Spouses of R.O.C.(Taiwan) Citizens Without Household Registration, Foreigners, Hong Kong Residents, Macau Residents, or Mainland Chinese Citizens",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-281-b948e-2.html",
@@ -3236,7 +3236,7 @@
     "pk": 29,
     "fields": {
         "name": "Minors joining Parents or Grand Parents (Resident Visa)",
-        "description": "Residents Visas for Minors Under Age 20 Joining Parents or Grand Parents",
+        "description": "For children under the age of 20 to join parents or grand parents in Taiwan for longer than six months.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-282-16c41-2.html",
@@ -3259,7 +3259,7 @@
     "pk": 30,
     "fields": {
         "name": "Overseas Chinese Students (Resident Visa)",
-        "description": "Resident Visas for Overseas Chinese Students",
+        "description": "This visa allows Overseas Chinese to return to Taiwan for study for period longer than six months.",
         "duration": 90,
         "entries": "1",
         "link": "https://www.boca.gov.tw/cp-166-288-b3876-2.html",
@@ -3284,7 +3284,7 @@
     "pk": 31,
     "fields": {
         "name": "Studying Religious Doctrine (Resident Visa)",
-        "description": "Residents Visas for Studying Religious Doctrine",
+        "description": "This visa is for students of religion who have been invited by Taiwanese religious organisations to study in Taiwan for longer periods.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-287-1eaf7-2.html",
@@ -3307,7 +3307,7 @@
     "pk": 32,
     "fields": {
         "name": "Religious Work (Resident Visa)",
-        "description": "Residents Visas for Religious Work",
+        "description": "This visa is for officials of a religion invited by Taiwanese religious organisations to stay in Taiwan for longer periods and conduct religious work.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-286-0ce3e-2.html",
@@ -3330,7 +3330,7 @@
     "pk": 33,
     "fields": {
         "name": "Studying Mandarin Chinese (Resident Visa)",
-        "description": "Residents Visas for Studying Mandarin Chinese",
+        "description": "This visa lets you visit Taiwan for longer periods to join an accredited Chinese language program, with a requirement of more than 15 hours of classes per week.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-285-041cb-2.html",
@@ -3352,7 +3352,7 @@
     "pk": 34,
     "fields": {
         "name": "Foreign Students(Exchange students) (Resident Visa)",
-        "description": "Residents Visas for Foreign Students(Exchange students)",
+        "description": "This visa is for approved exchange students who are on exchange for longer periods.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-284-6f5f7-2.html",
@@ -3374,7 +3374,7 @@
     "pk": 35,
     "fields": {
         "name": "Foreign Students(Full-time) (Resident Visa)",
-        "description": "Residents Visas for Foreign Students(Full-time PhD, Master\u2019s, Bachelor\u2019s program, or senior high school Students and below)",
+        "description": "This visa is for Full-time PhD, Master\u2019s, Bachelor\u2019s program, or senior high school Students and below to study in Taiwan over longer periods.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-166-283-c4da3-2.html",
@@ -3396,7 +3396,7 @@
     "pk": 36,
     "fields": {
         "name": "Travel Authorization Certificate",
-        "description": "Travel Authorization Certificate",
+        "description": "For a short-term visit to Taiwan for tourism, visiting friends or relatives, attending social events, conducting business, attending exhibitions and engaging in fact-finding missions.",
         "duration": 90,
         "entries": "X",
         "link": "https://www.boca.gov.tw/cp-152-274-8c0e2-2.html",

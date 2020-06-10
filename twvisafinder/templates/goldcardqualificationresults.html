@@ -26,7 +26,8 @@
      <section class="visadescriptions">
 	{% for qualification in qualdata %}
 	<div class="visadesc"><div class="gcdesccontainer">
-        <p>You qualify under Ministry: {{qualification.ministry}}, Regulation {{qualification.regulation_no}}</p>
+        <p>You may qualify under {{qualification.get_ministry_display}},
+        <a href="{{qualification.link}}">Regulation #{{qualification.regulation_no}}</a></p>
 	</div></div>
 	{% endfor %}
         {% if qualdata|length == 0 %}

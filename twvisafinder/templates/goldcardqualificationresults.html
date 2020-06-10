@@ -24,16 +24,21 @@
         </div>
     </section>
      <section class="visadescriptions">
+
+	{% if qualdata|length == 0 %}
+        <p>Sorry, it looks like you don't qualify for the gold card.</p>
+	{% else %}
+	<p>Congratulations, based on your answers:</p>
+        {% endif %}
+
 	{% for qualification in qualdata %}
 	<div class="visadesc"><div class="gcdesccontainer">
         <p>You may qualify under {{qualification.get_ministry_display}},
         <a href="{{qualification.link}}">Regulation #{{qualification.regulation_no}}</a></p>
+	<p class="visacomments">because you answered Yes to "{{qualification.goldcardquestion_set.all.0}}"</p>
 	</div></div>
 	{% endfor %}
-        {% if qualdata|length == 0 %}
-        <p>Sorry, it looks like you don't qualify for the gold card.</p>
-        {% endif %}
-    </section>
+     </section>
 
 
     <section id="contact" class="bg-light">

@@ -84,6 +84,7 @@ def goldcardqualification(request):
                qualdata.append('9-0')
             if 12 in enabled_trees:
                qualdata.append('12-0')
+               enabled_trees.remove(12)
 
         else:
             # XXX should make sure the webserver limits the request size.

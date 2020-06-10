@@ -53,3 +53,32 @@ class Visa(models.Model):
     def __str__(self):
         return self.name
 
+class GoldCardQualification(models.Model):
+    MINISTRY_CHOICES = (
+         ('MOST', 'Science and Technology'),
+         ('MOEA', 'Economics'),
+         ('MOE', 'Education'),
+         ('MOC', 'Culture and Art'),
+         ('MOS', 'Sport'),
+         ('MOF', 'Finance'),
+         ('MOJ', 'Law'),
+         ('MOA', 'Architecture'),
+    )
+
+    ministry = models.CharField(max_length=4, choices=MINISTRY_CHOICES, default='MOST')
+    regulation_no = models.CharField(max_length=6)
+    link = models.URLField()
+
+    def __str__(self):
+        return self.ministry + "-" + self.regulation_no
+
+
+class GoldCardQuestion(models.Model):
+    tree_id = models.PositiveSmallIntegerField(null=False, blank=False)
+    tree_order = models.PositiveSmallIntegerField(null=False, blank=False)
+    next_tree_id = models.PositiveSmallIntegerField(null=True, blank=True)
+    qualifications = models.ManyToManyField(GoldCardQualification, blank=True)
+    question_text = models.CharField(max_length=255)
+
+    def __str__(self):
+        return self.question_text

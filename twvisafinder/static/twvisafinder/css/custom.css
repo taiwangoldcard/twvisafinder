@@ -51,6 +51,14 @@ font-color: rgb(255, 255, 255);
 background-color: rgb(240, 240, 240);
 }
 
+.visarequirements {
+  word-wrap: break-word; /* IE>=5.5 */
+  white-space: pre; /* IE>=6 */
+  white-space: -moz-pre-wrap; /* For Fx<=2 */
+  white-space: pre-wrap; /* Fx>3, Opera>8, Safari>3*/
+}
+
+
 .visadesc {
 background-color: rgb(255, 255, 255);
 border-bottom-left-radius: 0px;

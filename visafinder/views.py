@@ -39,7 +39,7 @@ def category(request, visa_category):
         form = VisaSearchForm(request.POST, category=visa_category)
         if form.is_valid():
             visas = searchvisas(category, form.cleaned_data['country'])
-            print visas
+            print(visas)
             #visas = category.visa_set.all()
             return render(request, 'category.html', context={
                 'support_email': settings.SUPPORT_EMAIL,
@@ -72,7 +72,7 @@ def goldcardqualification(request):
     # show the initial list of Gold Card qualification questions, or direct to
     # the next tree of questions.
     if request.method == 'POST':
-        print request.POST
+        print (request.POST)
         enabled_trees = []
         # this is a post from the home screen.
         if "enabled_trees" not in request.POST.keys():
@@ -105,7 +105,7 @@ def goldcardqualification(request):
             for qual in qualdata:
                 tree, order = qual.split('-')
                 results.extend(GoldCardQuestion.objects.get(tree_id=tree, tree_order=order).qualifications.all())
-            print results
+            print (results)
 
             return render(request, 'goldcardqualificationresults.html', context={
                 'support_email': settings.SUPPORT_EMAIL,

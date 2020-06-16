@@ -36,6 +36,9 @@
         <p>You may qualify under {{qualification.get_ministry_display}},
         <a href="{{qualification.link}}">Regulation #{{qualification.regulation_no}}</a></p>
 	<p class="visacomments">because you answered Yes to "{{qualification.goldcardquestion_set.all.0}}"</p>
+        {% if qualification.notes|length > 0 %}
+	<p class="visacomments">{{qualification.notes}}</p>
+        {% endif %}
 	</div></div>
 	{% endfor %}
 	{% if qualdata|length > 0 %}

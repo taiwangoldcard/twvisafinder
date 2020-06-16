@@ -37,7 +37,7 @@
         <a href="{{qualification.link}}">Regulation #{{qualification.regulation_no}}</a></p>
 	<p class="visacomments">because you answered Yes to "{{qualification.goldcardquestion_set.all.0}}"</p>
         {% if qualification.notes|length > 0 %}
-	<p class="visacomments">{{qualification.notes}}</p>
+	<p class="visarequirements">{{qualification.notes}}</p>
         {% endif %}
 	</div></div>
 	{% endfor %}

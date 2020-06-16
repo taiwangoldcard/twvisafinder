@@ -68,6 +68,8 @@ class GoldCardQualification(models.Model):
     ministry = models.CharField(max_length=4, choices=MINISTRY_CHOICES, default='MOST')
     regulation_no = models.CharField(max_length=6)
     link = models.URLField()
+    notes = models.TextField(null=True, blank=True)
+    weight = models.PositiveSmallIntegerField(null=True, blank=True)
 
     def __str__(self):
         return self.ministry + "-" + self.regulation_no

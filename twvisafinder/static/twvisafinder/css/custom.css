@@ -137,6 +137,15 @@ padding-right: 38.8667px;
 padding-top: 10px;
 }
 
+.gcnotes {
+  word-wrap: break-word; /* IE>=5.5 */
+  white-space: pre; /* IE>=6 */
+  white-space: -moz-pre-wrap; /* For Fx<=2 */
+  white-space: pre-wrap; /* Fx>3, Opera>8, Safari>3*/
+  font-size: 13.6px;
+}
+
+
 
 .bg {
 background-color: rgb(0,45,90);

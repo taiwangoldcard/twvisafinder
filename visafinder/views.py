@@ -106,6 +106,8 @@ def goldcardqualification(request):
                 tree, order = qual.split('-')
                 results.extend(GoldCardQuestion.objects.get(tree_id=tree, tree_order=order).qualifications.all())
             print (results)
+            results.sort(key=lambda x: x.weight, reverse=True)
+            print (results)
 
             return render(request, 'goldcardqualificationresults.html', context={
                 'support_email': settings.SUPPORT_EMAIL,

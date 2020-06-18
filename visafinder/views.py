@@ -105,7 +105,6 @@ def goldcardqualification(request):
             for qual in qualdata:
                 tree, order = qual.split('-')
                 results.extend(GoldCardQuestion.objects.get(tree_id=tree, tree_order=order).qualifications.all())
-            print (results)
             results.sort(key=lambda x: x.weight, reverse=True)
             print (results)
 

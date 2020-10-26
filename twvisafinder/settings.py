@@ -128,3 +128,4 @@ STATICFILES_DIRS = (
         )
 
 SUPPORT_EMAIL = 'none@example.org'
+GC_HELPDESK_EMAIL = 'help@taiwangoldcard.tw'

@@ -110,6 +110,7 @@ def goldcardqualification(request):
 
             return render(request, 'goldcardqualificationresults.html', context={
                 'support_email': settings.SUPPORT_EMAIL,
+                'gc_helpdesk_email': settings.GC_HELPDESK_EMAIL,
                 'qualdata': results
                 })
         else:
@@ -138,6 +139,7 @@ def goldcardqualification(request):
             # TODO need to pass qualifications
             return render(request, 'goldcardqualificationtree.html', context={
                 'support_email': settings.SUPPORT_EMAIL,
+                'gc_helpdesk_email': settings.GC_HELPDESK_EMAIL,
                 'questions': start_questions,
                 'next_tree': next_tree,
                 'enabled_trees': enabled_trees,
@@ -148,6 +150,7 @@ def goldcardqualification(request):
     else:
         return render(request, 'goldcardqualification.html', context={
             'support_email': settings.SUPPORT_EMAIL,
+            'gc_helpdesk_email': settings.GC_HELPDESK_EMAIL,
             'questions': GoldCardQuestion.objects.filter(tree_order=0),
             })
 
@@ -155,6 +158,7 @@ def goldcardqualificationtree(request, tree_id):
     # show one tree of Gold Card qualification questions
     return render(request, 'goldcardqualificationtree.html', context={
         'support_email': settings.SUPPORT_EMAIL,
+        'gc_helpdesk_email': settings.GC_HELPDESK_EMAIL,
         'questions': GoldCardQuestion.objects.filter(tree_id=tree_id),
         })
 
@@ -162,6 +166,7 @@ def goldcardqualificationresults(request):
     # show one tree of Gold Card qualification questions
     return render(request, 'goldcardqualificationresults.html', context={
         'support_email': settings.SUPPORT_EMAIL,
+        'gc_helpdesk_email': settings.GC_HELPDESK_EMAIL,
         'results': qualdata,
         })
 

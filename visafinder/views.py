@@ -148,7 +148,7 @@ def goldcardqualification(request):
 
 
     else:
-        return render(request, 'goldcardqualification.html', context={
+        return render(request, 'goldcardqualificationmoved.html', context={
             'support_email': settings.SUPPORT_EMAIL,
             'gc_helpdesk_email': settings.GC_HELPDESK_EMAIL,
             'questions': GoldCardQuestion.objects.filter(tree_order=0),

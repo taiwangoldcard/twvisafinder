@@ -36,12 +36,52 @@ class Visa(models.Model):
             ('2', 'Double Entry'),
             ('X', 'Multiple Entry'),
     )
+    # https://www.boca.gov.tw/cp-79-75-92b7d-1.html
+    ANNOTATION_CHOICES = (
+        ('A','White collar professional, investor, company person-in-charge; Performance'),
+        ('B','Business'),
+        ('P','Tourism, visiting relatives'),
+        ('DC','Diplomat'),
+        ('FO','Foreign Official'),
+        ('FD','Foreign Diplomat'),
+        ('EN','Entrepreneur'),
+        ('ER','Emergency Relief'),
+        ('ES','Employment Seeking'),
+        ('IM','International Conference'),
+        ('FS','Foreign Student'),
+        ('FC','Overseas Chinese'),
+        ('FR','Study'),
+        ('FT','Internship'),
+        ('FL','Blue collar worker'),
+        ('R','Religion'),
+        ('TS','Foreign Spouse of Nationals'),
+        ('TC','Foreign Children of Nationals'),
+        ('OS','NWOHR Spouse'),
+        ('OC','NWOHR Children'),
+        ('HS','Hong Kong/Macao Spouse'),
+        ('HC','Hong Kong/Macao Children'),
+        ('SC','Mainland Spouse'),
+        ('CC','Mainland Children'),
+        ('SF','Foreign Spouse of Foreign national'),
+        ('CF','Children of Foreign national'),
+        ('J','International Exchange'),
+        ('V','Volunteer'),
+        ('O','Official visit'),
+        ('T','Transit'),
+        ('TR','Change to Residence'),
+        ('VF','Visa Free'),
+        ('VL','Visa on Arrival'),
+        ('WH','Working Holiday'),
+        ('X','Special'),
+        ('M','Medical'),
+    )
 
     name = models.CharField(max_length=100)
     description = models.CharField(max_length=200)
     category = models.ManyToManyField(VisaCategory())
     duration = models.PositiveSmallIntegerField()
     entries = models.CharField(max_length=1, choices=ENTRY_CHOICES, default='1')
+    annotation = models.CharField(max_length=2, choices=ANNOTATION_CHOICES, blank=True, null=True)
     link = models.URLField()
     eligibilities = models.ManyToManyField(VisaEligibility, blank=True)
     start_date = models.DateField(null=True, blank=True)

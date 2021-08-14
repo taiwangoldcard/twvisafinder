@@ -1,0 +1,23 @@
+{% load static %}
+<!doctype html>
+
+<html lang="en-US">
+<head>
+		 {% include "gchead.html"  %}
+		 <link rel="stylesheet" type="text/css" href="/static/admin/css/base.css" />
+		 <link rel="stylesheet" type="text/css" href="/static/admin/css/forms.css" />
+     {% block page_head %}
+     {% endblock %}
+</head>
+<body class="change-form">
+  <header class="mainHeader">
+		 {% include "gcnav.html"  %}
+    {% block page_nav %}{% endblock %}
+  </header>
+  <main class="content">
+  {% block page_content %}{% endblock %}
+  </main>
+	{% include "gcfooter.html"  %}
+  {% block footer %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,12 @@
+{% extends "gcbase.html" %}
+{% load static %}
+{% block page_content %}
+<form method="post">{% csrf_token %}
+<table>
+{{ gcjoinform }}
+</table>
+<div class="submit-row">
+<input class="default" type="submit" value="Join!">
+</div>
+</form>
+{% endblock %}

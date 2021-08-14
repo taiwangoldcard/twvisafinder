@@ -1,0 +1,12 @@
+{% extends "gcbase.html" %}
+{% load static %}
+{% block page_content %}
+<h1>Sorry, we could not validate your information automatically</h1>
+<p>Please send an email to the humans at tw.goldcard@gmail.com with a copy of
+your Gold Card attached (you may blank personal details) and we will 
+help you manually!</p>
+<p>Some error information from the system can be found below:
+{{ status_code }}
+{{ message }}
+</p>
+{% endblock %}

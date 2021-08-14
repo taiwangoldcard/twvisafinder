@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'gcjoin.apps.GCJoinConfig',
     'visafinder.apps.VisafinderConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -58,6 +59,7 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
                 os.path.join(BASE_DIR, 'twvisafinder', 'templates'),
+                os.path.join(BASE_DIR, 'gcjoin', 'templates'),
 
             ],
         'APP_DIRS': True,

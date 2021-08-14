@@ -5,6 +5,9 @@ from django.contrib import admin
 
 from .models import GoldCardHolder, GoldCardSubGroup, GoldCardRole
 
-admin.site.register(GoldCardHolder)
+class GoldCardHolderAdmin(admin.ModelAdmin):
+    list_display = ('name', 'status')
+
+admin.site.register(GoldCardHolder, GoldCardHolderAdmin)
 admin.site.register(GoldCardSubGroup)
 admin.site.register(GoldCardRole)

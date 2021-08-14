@@ -299,7 +299,7 @@ class GoldCardHolder(models.Model):
     profile = models.BooleanField(verbose_name="Do you want to be interviewed and your profile appear on taiwangoldcard.com?")
     wanttohelp = models.BooleanField(verbose_name="Would you be interested in helping the gold card the community?", help_text="any type of contributions is welcome: events/code/marketing/ideas...)")
     groups = models.ManyToManyField(GoldCardSubGroup, verbose_name="Do you identify yourself in one of those groups?", help_text="you'll be invited", blank=True)
-    roles = models.ManyToManyField(GoldCardRole)
+    roles = models.ManyToManyField(GoldCardRole, blank=True)
     notes = models.TextField(max_length=1024, blank=True, null=True)
 
     def __str__(self):

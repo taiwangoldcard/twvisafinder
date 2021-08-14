@@ -11,6 +11,7 @@ STATUS_CHOICES = [
     ('Joined', 'Community Onboarding Complete'),
     ('Banned', 'Removed for being disruptive'),
     ('Unknown', 'Added before this system existed'),
+    ('Rejected', 'Rejected'),
 ]
 
 COUNTRY_CHOICES = [

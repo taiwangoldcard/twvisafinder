@@ -22,7 +22,6 @@ class dotdict(dict):
 
 
 def join(request):
-    print(request.method)
     if request.method == 'POST':
         # TODO - restrict number of POSTS based on IP address.
         form = GCJoinForm(request.POST)

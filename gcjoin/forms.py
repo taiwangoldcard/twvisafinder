@@ -1,6 +1,7 @@
 from django import forms
+from django.forms.widgets import CheckboxSelectMultiple
 
-from .models import GoldCardHolder
+from .models import GoldCardHolder, GoldCardSubGroup
 
 import math
 import re
@@ -20,7 +21,8 @@ class GCJoinForm(forms.ModelForm):
                   'groups']
     def __init__(self, *args, **kwargs):
         super(GCJoinForm, self).__init__(*args, **kwargs)
-
+        self.fields["groups"].widget = CheckboxSelectMultiple()
+        self.fields["groups"].queryset = GoldCardSubGroup.objects.all()
 
     def isIDValid(id_no):
         id_no = id_no.upper()

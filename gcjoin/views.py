@@ -20,6 +20,39 @@ class dotdict(dict):
     __setattr__ = dict.__setitem__
     __delattr__ = dict.__delitem__
 
+def validate_goldcard(identityno, nation, dob):
+    """ uses the NIA API to verify whether a Gold Card is valid
+        identityno is an ARC number
+        nation is an integer that matches the NIA list of countries
+        dob is a string like 1970-01-01
+
+        Returns True if ID is valid, a string with an error if not"""
+    if GCJoinForm.isIDValid(identityno) is False:
+        return "Invalid ID number"
+
+    if MODE == "ONLINE":
+        r = requests.get('https://coa.immigration.gov.tw/coa-frontend/golden-card/re-apply/inquiry?residentIdNo='+ identityno + '&birthDate=' + str(dob).replace('-', '/') + '&grace=0')
+    else:
+        rr = {}
+        rr["status_code"] = 200
+        rr["text"] = '{"nation":208}'
+        r = dotdict(rr)
+
+    if r.status_code != 200:
+       return "HTTP error on NIA API."
+
+    results = json.loads(r.text)
+    print(results)
+
+    if 'nation' in results.keys():
+        if results["nation"] == nation:
+            # We have a valid Gold Card holder!
+            return True
+        else:
+            return "Valid ID with invalid country. " + r.text
+
+    else:
+        return "Not valid Gold Card information, failed verification. " + r.text['message']
 
 def join(request):
     if request.method == 'POST':
@@ -36,50 +69,24 @@ def join(request):
                   'status_code': 200,
                   'message': "Invalid ARC Number."
                     })
-            if MODE == "ONLINE":
-                r = requests.get('https://coa.immigration.gov.tw/coa-frontend/golden-card/re-apply/inquiry?residentIdNo='+ new_goldie.identityno + '&birthDate=' + str(new_goldie.dob).replace('-', '/') + '&grace=0')
-            else:
-                rr = {}
-                rr["status_code"] = 200
-                rr["text"] = '{"nation":208}'
-                r = dotdict(rr)
 
-            if r.status_code != 200:
-               new_goldie.notes = "HTTP error on NIA API."
+            validation_result = validate_goldcard(new_goldie.identityno, new_goldie.nation, new_goldie.dob)
+            if validation_result is True:
+               new_goldie.status = 'Approved'
                new_goldie.save()
-               return render(request, 'error.html', context={
-                  'support_email': settings.SUPPORT_EMAIL,
-                  'status_code': r.status_code,
-                  'message': r.text
+               # TODO: Automatically add to LINE group
+               # TODO: Automatically invite to slack group
+               # TODO: Automatically add to newsletter list
+               return render(request, 'success.html', context={
+                   'support_email': settings.SUPPORT_EMAIL,
                     })
-            results = json.loads(r.text)
-            print(results)
-            if 'nation' in results.keys():
-                if results["nation"] == new_goldie.nation:
-                    # We have a valid Gold Card holder!
-                    new_goldie.status = 'Approved'
-                    new_goldie.save()
-                    # TODO: Automatically add to LINE group
-                    # TODO: Automatically invite to slack group
-                    # TODO: Automatically add to newsletter list
-                    return render(request, 'success.html', context={
-                        'support_email': settings.SUPPORT_EMAIL,
-                         })
-                else:
-                    new_goldie.notes = "Valid ID with invalid country."
-                    new_goldie.save()
-                    return render(request, 'gcerror.html', context={
-                      'support_email': settings.SUPPORT_EMAIL,
-                      'status_code': r.status_code,
-                      'message': "We couldn't match your country to the one on file."
-                        })
-
             else:
-                # Not valid Gold Card information
-                return render(request, 'gcerror.html', context={
+               new_goldie.notes = validation_result
+               new_goldie.save()
+               return render(request, 'gcerror.html', context={
                   'support_email': settings.SUPPORT_EMAIL,
-                  'status_code': r.status_code,
-                  'message': r.text + "\nPlease email tw.goldcard@gmail.com with a copy of your Gold Card (you may blank personal details)"
+                  'status_code': 401,
+                  'message': validation_result,
                     })
 
         else:

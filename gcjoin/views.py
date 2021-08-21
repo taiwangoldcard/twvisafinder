@@ -58,7 +58,7 @@ def validate_goldcard(identityno, nation, dob):
             return "Valid ID with invalid country. " + r.text
 
     else:
-        return "Not valid Gold Card information, failed verification. " + r.text['message']
+        return "Not valid Gold Card information, failed verification. " + r.text
 
 def join(request):
     if request.method == 'POST':

@@ -288,7 +288,7 @@ class GoldCardHolder(models.Model):
     status = models.CharField(choices=STATUS_CHOICES, default="Pending", max_length=64)
     joined_date = models.DateField(auto_now_add=True, blank=True)
     identityno = models.CharField(max_length=12, verbose_name="Your Gold Card ID (ARC) number")
-    dob = models.DateField(default=datetime.datetime(1970,1,1), verbose_name="Date of Birth", help_text="YYYY-MM-DD")
+    dob = models.DateField(default=datetime.date(1970,1,1), verbose_name="Date of Birth", help_text="YYYY-MM-DD")
     nation = models.IntegerField(choices=COUNTRY_CHOICES, null=True)
     email = models.CharField(max_length=255)
     line = models.CharField(max_length=255, blank=True, null=True, verbose_name="Your LINE ID", help_text="our community is a LINE Group")

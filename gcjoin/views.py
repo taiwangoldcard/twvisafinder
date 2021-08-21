@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
+from datetime import datetime
 from django.conf import settings
 from django.shortcuts import get_object_or_404, render
 import json
@@ -29,6 +30,11 @@ def validate_goldcard(identityno, nation, dob):
         Returns True if ID is valid, a string with an error if not"""
     if GCJoinForm.isIDValid(identityno) is False:
         return "Invalid ID number"
+
+    try:
+        datetime.strptime(str(dob), '%Y-%m-%d')
+    except ValueError:
+        return "Invalid Date of Birth"
 
     if MODE == "ONLINE":
         r = requests.get('https://coa.immigration.gov.tw/coa-frontend/golden-card/re-apply/inquiry?residentIdNo='+ identityno + '&birthDate=' + str(dob).replace('-', '/') + '&grace=0')

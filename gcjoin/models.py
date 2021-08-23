@@ -12,6 +12,7 @@ STATUS_CHOICES = [
     ('Banned', 'Removed for being disruptive'),
     ('Unknown', 'Added before this system existed'),
     ('Rejected', 'Rejected'),
+    ('Alumni', 'No longer holder of a valid Gold Card'),
 ]
 
 COUNTRY_CHOICES = [

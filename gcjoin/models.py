@@ -292,6 +292,7 @@ class GoldCardHolder(models.Model):
     dob = models.DateField(default=datetime.date(1970,1,1), verbose_name="Date of Birth", help_text="YYYY-MM-DD")
     nation = models.IntegerField(choices=COUNTRY_CHOICES, null=True)
     email = models.CharField(max_length=255)
+    alt_email = models.CharField(max_length=255, blank=True, null=True, verbose_name="Alternate Email")
     line = models.CharField(max_length=255, blank=True, null=True, verbose_name="Your LINE ID", help_text="our community is a LINE Group")
     job = models.CharField(max_length=255, verbose_name="Previous/Current Job and Industry")
     intro = models.TextField(max_length=1024, verbose_name="A quick introduction about you?", help_text="will be used to introduce you to the community")

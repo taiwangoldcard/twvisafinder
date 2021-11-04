@@ -18,6 +18,5 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^gcjoin/', include('gcjoin.urls')),
     url(r'^', include('visafinder.urls')),
 ]
